@@ -1,0 +1,15 @@
+Cold Resist::Cres
+Lightning Resist::Lres
+Fire Resist::Fres
+Poison Resist::Pres
+Increased Attack Speed::IAS
+Enhanced Damage::ED
+to Dexterity::dex
+to Strength::str
+to Minimum Damage::min
+to Maximum Damage::max
+Heal Stamina Plus ::heal stamina +
+Requirements::req
+to Attack Rating::AR
+Defense::def
+to Life::life

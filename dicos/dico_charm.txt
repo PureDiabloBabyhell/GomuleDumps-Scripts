@@ -1,0 +1,48 @@
+Cold Resist::Cres
+Lightning Resist::Lres
+Fire Resist::Fres
+Poison Resist::Pres
+Increased Attack Speed::IAS
+Faster Hit Recovery::FHR
+Faster Run/Walk::FRW
+Enhanced Damage::ED
+to Dexterity::dex
+to Strength::str
+to Minimum Damage::min
+to Maximum Damage::max
+Heal Stamina Plus ::heal stamina +
+Maximum Stamina::stamina
+Requirements::req
+to Attack Rating::AR
+Defense::def
+to Life::life
+to Mana::mana
+Cold Damage Over::cold over
+Lightning Damage::light
+Fire Damage::fire
+Poison Damage Over::psn over
+Extra Gold from Monsters::GF
+Better Chance of Getting Magic Items::MF
+Reduces All Vendor Prices::Price reduce
+to Fire Skills (Sorceress Only)::Fire (Sorc)
+to Lightning Skills (Sorceress Only)::Light (Sorc)
+to Cold Skills (Sorceress Only)::Cold (Sorc)
+to Offensive Aura Skills (Paladin Only)::Offensive (Pal)
+to Defensive Aura Skills (Paladin Only)::Defensive (Pal)
+to Combat Skills (Paladin Only)::Combat (Pal)
+to Trap Skills (Assassin Only)::Trap (Assa)
+to Shadow Disciplines (Assassin Only)::Shadow (Assa)
+to Martial Art Skills (Assassin Only)::MA (Assa)
+to Combat Skills (Barbarian Only)::Combat (Barb)
+to Combat Masteries (Barbarian Only)::Masteries (Barb)
+to Warcry Skills (Barbarian Only)::Warcry (Barb)
+to Bow and Crossbow Skills (Amazon Only)::Bow&XBow (Ama)
+to Javelin and Spear Skills (Amazon Only)::Jav&Spear (Ama)
+to Passive and Magic Skills (Amazon Only)::P&M (Ama)
+to Poison and Bone Skills (Necromancer Only)::P&B (Necro)
+to Summoning Skills (Necromancer Only)::Summoning (Necro)
+to Curses (Necromancer only)::Curses (Necro)
+to Elemental Skills (Druid Only)::Elemental (Druid)
+to Shape-Shifting Skills (Druid Only)::Shape-Shifting (Druid)
+to Summoning Skills (Druid Only)::Summoning (Druid)
+
