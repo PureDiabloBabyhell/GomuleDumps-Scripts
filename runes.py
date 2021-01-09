@@ -39,7 +39,9 @@ fp.close()
 
 #After processing
 outputFile = open(fileName+'.purediablo','w')
-
+#Header
+print("[COLOR=rgb(243, 121, 52)][B]Runes[/B][/COLOR]", file=outputFile)
+#Table
 print("[CODE]", file=outputFile)
 
 counter = 0
@@ -49,7 +51,7 @@ for item in items:
 	runeNamesLine += "| {0:>5s} ".format(item)
 	runeQtiesLine += "| {0:5d} ".format(qties[counter])
 	counter += 1
-	if (counter % 6) == 0:
+	if (counter % 5) == 0:
 		print(runeNamesLine + "|", file=outputFile)
 		print(runeQtiesLine + "|", file=outputFile)
 		runeNamesLine = ""
