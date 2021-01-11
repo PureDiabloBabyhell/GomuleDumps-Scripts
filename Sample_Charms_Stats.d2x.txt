@@ -1,0 +1,245 @@
+C:\Program Files (x86)\Diablo II\GoMule\SC\Charms_Stats.d2x
+
+
+Grand Charm of Dexterity
+Grand Charm
+Required Level: 10
+Fingerprint: 0x189e377a
+Item Level: 80
+Version: Expansion 1.10+
++5 to Dexterity
+
+Small Charm of Strength
+Small Charm
+Required Level: 16
+Fingerprint: 0x7c1ef524
+Item Level: 43
+Version: Expansion 1.10+
++2 to Strength
+
+Stout Small Charm of Strength
+Small Charm
+Required Level: 16
+Fingerprint: 0x38e539ac
+Item Level: 80
+Version: Expansion 1.10+
++1 Defense
++2 to Strength
+
+Small Charm of Strength
+Small Charm
+Required Level: 16
+Fingerprint: 0x1711bba
+Item Level: 85
+Version: Expansion 1.10+
++2 to Strength
+
+Small Charm of Strength
+Small Charm
+Required Level: 16
+Fingerprint: 0x512e479
+Item Level: 88
+Version: Expansion 1.10+
++2 to Strength
+
+Beryl Grand Charm of Dexterity
+Grand Charm
+Required Level: 10
+Fingerprint: 0x8c036a32
+Item Level: 80
+Version: Expansion 1.10+
++6 to Dexterity
+Poison Resist +12%
+
+Grand Charm of Strength
+Grand Charm
+Required Level: 10
+Fingerprint: 0xd54096b5
+Item Level: 85
+Version: Expansion 1.10+
++5 to Strength
+
+Small Charm of Strength
+Small Charm
+Required Level: 16
+Fingerprint: 0xe5ae2b39
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++2 to Strength
+
+Shivering Small Charm of Dexterity
+Small Charm
+Required Level: 34
+Fingerprint: 0x1fb6ef5e
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Adds 4 - 8 Cold Damage Over 1 Secs (25 Frames)
++2 to Dexterity
+
+Grand Charm of Strength
+Grand Charm
+Required Level: 1
+Fingerprint: 0x6e282f40
+Item Level: 85
+Version: Expansion 1.10+
++3 to Strength
+
+Grand Charm of Strength
+Grand Charm
+Required Level: 1
+Fingerprint: 0x9d59e9b5
+Item Level: 75
+Version: Expansion 1.10+
+Unidentified
++4 to Strength
+
+Grand Charm of Strength
+Grand Charm
+Required Level: 1
+Fingerprint: 0xa41cd6b8
+Item Level: 85
+Version: Expansion 1.10+
++3 to Strength
+
+Grand Charm of Strength
+Grand Charm
+Required Level: 1
+Fingerprint: 0xc4d44ba3
+Item Level: 85
+Version: Expansion 1.10+
++3 to Strength
+
+Small Charm of Strength
+Small Charm
+Required Level: 5
+Fingerprint: 0xeadcc9bb
+Item Level: 80
+Version: Expansion 1.10+
++1 to Strength
+
+Small Charm of Dexterity
+Small Charm
+Required Level: 5
+Fingerprint: 0x88a961df
+Item Level: 85
+Version: Expansion 1.10+
++1 to Dexterity
+
+Small Charm of Strength
+Small Charm
+Required Level: 5
+Fingerprint: 0x5ec27a56
+Item Level: 29
+Version: Expansion 1.10+
++1 to Strength
+
+Grand Charm of Dexterity
+Grand Charm
+Required Level: 1
+Fingerprint: 0xc83fcf62
+Item Level: 85
+Version: Expansion 1.10+
++3 to Dexterity
+
+Jagged Grand Charm of Dexterity
+Grand Charm
+Required Level: 5
+Fingerprint: 0x2bb21a58
+Item Level: 23
+Version: Expansion 1.10+
++1 to Maximum Damage
++4 to Dexterity
+
+Grand Charm of Strength
+Grand Charm
+Required Level: 1
+Fingerprint: 0x5030b5d7
+Item Level: 80
+Version: Expansion 1.10+
++4 to Strength
+
+Grand Charm of Strength
+Grand Charm
+Required Level: 1
+Fingerprint: 0x74e79bb4
+Item Level: 80
+Version: Expansion 1.10+
++4 to Strength
+
+Small Charm of Strength
+Small Charm
+Required Level: 5
+Fingerprint: 0x6f6eaf5f
+Item Level: 33
+Version: Expansion 1.10+
++1 to Strength
+
+Small Charm of Dexterity
+Small Charm
+Required Level: 5
+Fingerprint: 0x92c8438b
+Item Level: 85
+Version: Expansion 1.10+
++1 to Dexterity
+
+Small Charm of Strength
+Small Charm
+Required Level: 5
+Fingerprint: 0x306988
+Item Level: 73
+Version: Expansion 1.10+
++1 to Strength
+
+Small Charm of Dexterity
+Small Charm
+Required Level: 5
+Fingerprint: 0x6be61ca0
+Item Level: 19
+Version: Expansion 1.10+
++1 to Dexterity
+
+Small Charm of Dexterity
+Small Charm
+Required Level: 5
+Fingerprint: 0x7f029c2a
+Item Level: 12
+Version: Expansion 1.10+
++1 to Dexterity
+
+Stout Small Charm of Strength
+Small Charm
+Required Level: 5
+Fingerprint: 0xe523b602
+Item Level: 19
+Version: Expansion 1.10+
++1 Defense
++1 to Strength
+
+Beryl Small Charm of Strength
+Small Charm
+Required Level: 5
+Fingerprint: 0xfba4b935
+Item Level: 22
+Version: Expansion 1.10+
++1 to Strength
+Poison Resist +4%
+
+Grand Charm of Dexterity
+Grand Charm
+Required Level: 10
+Fingerprint: 0xecd968ab
+Item Level: 85
+Version: Expansion 1.10+
++6 to Dexterity
+
+Grand Charm of Dexterity
+Grand Charm
+Required Level: 10
+Fingerprint: 0x31957cf0
+Item Level: 88
+Version: Expansion 1.10+
++6 to Dexterity
+Finished: C:\Program Files (x86)\Diablo II\GoMule\SC\Charms_Stats.d2x
+

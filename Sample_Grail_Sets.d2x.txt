@@ -1,0 +1,2058 @@
+C:\Program Files (x86)\Diablo II\GoMule\SC\Grail_Sets.d2x
+
+
+Aldur's Advance
+Battle Boots
+Defense: 46
+Durability: 12 of 18
+Required Level: 45
+Required Strength: 95
+Fingerprint: 0x4a46160d
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Indestructible
++40% Faster Run/Walk
++50 to Life
++180 Maximum Stamina
+Heal Stamina Plus 32%
+Fire Resist +41%
+10% Damage Taken Goes To Mana
+Set (2 items): +15 to Dexterity
+Set (3 items): +15 to Dexterity
+Set (4 items): +15 to Dexterity
+
+
+Aldur's Deception
+Shadow Plate
+Defense: 784
+Durability: 64 of 70
+Required Level: 76
+Required Strength: 115
+Fingerprint: 0x747f4ab2
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Elemental Skills (Druid Only)
++1 to Shape-Shifting Skills (Druid Only)
++300 Defense
++20 to Strength
++15 to Dexterity
+Lightning Resist +46%
+Requirements -50%
+Set (2 items): +15 to Vitality
+Set (3 items): +15 to Vitality
+Set (4 items): +15 to Vitality
+
+
+Aldur's Rhythm
+Jagged Star
+One Hand Damage: 60 - 93
+Durability: 70 of 72
+Required Level: 42
+Required Strength: 74
+Fingerprint: 0xfc466c94
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++30% Increased Attack Speed
+Adds 40 - 62 Damage
++200% Damage to Demons
++150% Damage to Undead
+Adds 50 - 75 Lightning Damage
+5% Mana stolen per hit
+10% Life stolen per hit
+Set (2 items): +15 to Strength
+Set (3 items): +15 to Strength
+Set (4 items): +15 to Strength
+3 Sockets (0 used)
+
+
+Angelic Halo
+Ring
+Required Level: 12
+Fingerprint: 0xa8de69ec
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++20 to Life
+Replenish Life +6
+Set (2 items): +24 to Attack Rating (Based on Character Level)
+Set (3 items): 50% Better Chance of Getting Magic Items
+
+
+Angelic Mantle
+Ring Mail
+Defense: 68
+Durability: 23 of 26
+Required Level: 12
+Required Strength: 36
+Fingerprint: 0x806c77a3
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++40% Enhanced Defense
+Damage Reduced by 3
+Set (2 items): +150 Defense
+Set (3 items): Fire Resist +50%
+
+
+Angelic Sickle
+Sabre
+One Hand Damage: 3 - 8
+Durability: 30 of 32
+Required Level: 12
+Required Strength: 25
+Required Dexterity: 25
+Fingerprint: 0xd713a2a4
+Item Level: 22
+Version: Expansion 1.10+
++75 to Attack Rating
++250% Damage to Undead
+Set (2 items): 75% Enhanced Damage
+Set (3 items): +30% Increased Attack Speed
+
+
+Angelic Wings
+Amulet
+Required Level: 12
+Fingerprint: 0x73aa7362
+Item Level: 88
+Version: Expansion 1.10+
+20% Damage Taken Goes To Mana
++3 to Light Radius
+Set (2 items): +75 to Life
+Set (3 items): +1 to All Skills
+
+
+Arcanna's Deathwand
+War Staff
+Two Hand Damage: 12 - 28
+Durability: 43 of 50
+Required Level: 15
+Fingerprint: 0x139c60ed
+Item Level: 49
+Version: Expansion 1.10+
+Unidentified
++1 to Sorceress Skill Levels
+25% Deadly Strike
+Set (2 items): +50 to Mana
+Set (3 items): Regenerate Mana 5%
+
+
+Arcanna's Flesh
+Light Plate
+Defense: 93
+Durability: 45 of 60
+Required Level: 15
+Required Strength: 41
+Fingerprint: 0x5d6594d
+Item Level: 75
+Version: Expansion 1.10+
+Unidentified
+Damage Reduced by 3
++2 to Light Radius
+Set (2 items): +100 Defense
+Set (3 items): +10 to Energy
+
+
+Arcanna's Head
+Skull Cap
+Defense: 10
+Durability: 16 of 18
+Required Level: 15
+Required Strength: 15
+Fingerprint: 0x804dab72
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Replenish Life +4
+Attacker Takes Damage of 2
+Set (2 items): +225 Defense (Based on Character Level)
+Set (3 items): Lightning Resist +15%
+
+
+Arctic Binding
+Light Belt
+Defense: 33
+Durability: 7 of 14
+Required Level: 2
+Fingerprint: 0x493a6d3a
+Item Level: 45
+Version: Expansion 1.10+
+Unidentified
++30 Defense
+Cold Resist +40%
+Set (2 items): 40% Better Chance of Getting Magic Items
+Set (3 items): Cold Resist +10%
+
+
+Arctic Furs
+Quilted Armor
+Defense: 50
+Durability: 17 of 20
+Required Level: 2
+Required Strength: 12
+Fingerprint: 0x6b92c83c
+Item Level: 12
+Version: Expansion 1.10+
++323% Enhanced Defense
+All Resistances +10
+Set (2 items): +225 Defense (Based on Character Level)
+Set (3 items): Cold Resist +15%
+
+
+Arctic Horn
+Short War Bow
+Two Hand Damage: 9 - 21
+Durability: 45 of 48
+Required Level: 2
+Required Strength: 35
+Required Dexterity: 55
+Fingerprint: 0xaff3cfbf
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+50% Enhanced Damage
+20% Bonus to Attack Rating
+Set (2 items): +600 to Attack Rating (Based on Character Level)
+Set (3 items): Adds 20 - 30 Cold Damage Over 3 Secs (75 Frames)
+
+
+Arctic Mitts
+Light Gauntlets
+Defense: 10
+Durability: 18 of 18
+Required Level: 2
+Required Strength: 45
+Fingerprint: 0x6e2c166
+Item Level: 75
+Version: Expansion 1.10+
++10% Increased Attack Speed
++20 to Life
+Set (2 items): +50 to Attack Rating
+Set (3 items): +10 to Dexterity
+
+
+Berserker's Hatchet
+Double Axe
+One Hand Damage: 5 - 13
+Durability: 12 of 24
+Required Level: 3
+Required Strength: 43
+Fingerprint: 0x2b687b06
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+30% Bonus to Attack Rating
+5% Mana stolen per hit
+Set (2 items): 50% Enhanced Damage
+
+
+Berserker's Hauberk
+Splint Mail
+Defense: 93
+Durability: 26 of 30
+Required Level: 3
+Required Strength: 51
+Fingerprint: 0x4399a862
+Item Level: 40
+Version: Expansion 1.10+
+Unidentified
++1 to Barbarian Skill Levels
+Magic Damage Reduced by 2
+Set (2 items): +225 Defense (Based on Character Level)
+
+
+Berserker's Headgear
+Helm
+Defense: 33
+Durability: 16 of 24
+Required Level: 3
+Required Strength: 26
+Fingerprint: 0xf0520f8e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++15 Defense
+Fire Resist +25%
+Set (2 items): +600 to Attack Rating (Based on Character Level)
+
+
+Bul-Kathos' Sacred Charge
+Colossus Blade
+One Hand Damage: 75 - 195
+Two Hand Damage: 174 - 345
+Durability: 35 of 50
+Required Level: 63
+Required Strength: 189
+Required Dexterity: 110
+Fingerprint: 0x62c54ff5
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++20% Increased Attack Speed
+200% Enhanced Damage
+35% Chance of Crushing Blow
+Knockback
+All Resistances +20
+
+
+Bul-Kathos' Tribal Guardian
+Mythical Sword
+One Hand Damage: 120 - 150
+Durability: 37 of 44
+Required Level: 66
+Required Strength: 147
+Required Dexterity: 124
+Fingerprint: 0x2f1a416b
+Item Level: 86
+Version: Expansion 1.10+
+Unidentified
++20% Increased Attack Speed
+200% Enhanced Damage
+Adds 50 Poison Damage Over 2 Secs (50 Frames)
++20 to Strength
+Fire Resist +50%
+
+
+Cathan's Mesh
+Chain Mail
+Defense: 90
+Durability: 27 of 45
+Required Level: 11
+Required Strength: 24
+Fingerprint: 0x7567f611
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++15 Defense
+Requirements -50%
+Set (2 items): Attacker Takes Damage of 5
+Set (3 items): Fire Resist +30%
+
+
+Cathan's Rule
+Battle Staff
+Two Hand Damage: 6 - 13
+Durability: 39 of 40
+Required Level: 11
+Fingerprint: 0xc2a639f5
+Item Level: 40
+Version: Expansion 1.10+
+Unidentified
++1 to Fire Skills
++10 to Maximum Fire Damage
+Set (2 items): +50 to Mana
+Set (3 items): Cold Resist +10%
+Lightning Resist +10%
+Fire Resist +10%
+Poison Resist +10%
+
+
+Cathan's Seal
+Ring
+Required Level: 11
+Fingerprint: 0x55abbb8d
+Item Level: 60
+Version: Expansion 1.10+
+Unidentified
+6% Life stolen per hit
+Damage Reduced by 2
+Set (2 items): +10 to Strength
+
+
+Cathan's Sigil
+Amulet
+Required Level: 11
+Fingerprint: 0x7774ac2b
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
++10% Faster Hit Recovery
+Attacker Takes Lightning Damage of 5
+Set (2 items): +50 to Attack Rating
+Set (3 items): 25% Better Chance of Getting Magic Items
+
+
+Cathan's Visage
+Mask
+Defense: 22
+Durability: 11 of 20
+Required Level: 11
+Required Strength: 23
+Fingerprint: 0x530f96df
+Item Level: 28
+Version: Expansion 1.10+
+Unidentified
++20 to Mana
+Cold Resist +25%
+Set (2 items): +150 Defense (Based on Character Level)
+
+
+Civerb's Cudgel
+Grand Scepter
+One Hand Damage: 8 - 115
+Durability: 47 of 60
+Required Level: 9
+Required Strength: 37
+Fingerprint: 0x9526ddad
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++22 to Maximum Damage
++75 to Maximum Damage (Based on Character Level)
++75 to Attack Rating
++150% Damage to Undead
+
+
+Civerb's Icon
+Amulet
+Required Level: 9
+Fingerprint: 0xdf0c357d
+Item Level: 85
+Version: Expansion 1.10+
+Replenish Life +4
+Regenerate Mana 40%
+Set (2 items): Cold Resist +25%
+Set (3 items): +25 Defense
+
+
+Civerb's Ward
+Large Shield
+Defense: 29
+Chance to Block: 27
+Durability: 16 of 24
+Required Level: 9
+Required Strength: 34
+Fingerprint: 0x30319c8e
+Item Level: 75
+Version: Expansion 1.10+
+Unidentified
+15% Increased Chance of Blocking
++15 Defense
+Set (2 items): +22 to Mana
+Set (3 items): Poison Resist +26%
+
+
+Cleglaw's Claw
+Small Shield
+Defense: 26
+Chance to Block: 0
+Durability: 12 of 16
+Required Level: 4
+Required Strength: 22
+Fingerprint: 0x42c88bb2
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++17 Defense
+Poison Length Reduced by 75%
+Set (2 items): Cold Resist +15%
+Lightning Resist +15%
+Fire Resist +15%
+Poison Resist +15%
+
+
+Cleglaw's Pincers
+Chain Gloves
+Defense: 8
+Durability: 9 of 16
+Required Level: 4
+Required Strength: 25
+Fingerprint: 0x8ec00bf3
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Slows Target by 25%
+Knockback
+Set (2 items): +750 to Attack Rating (Based on Character Level)
+
+
+Cleglaw's Tooth
+Long Sword
+One Hand Damage: 3 - 19
+Durability: 42 of 44
+Required Level: 4
+Required Strength: 55
+Required Dexterity: 39
+Fingerprint: 0x377066e0
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+30% Bonus to Attack Rating
+50% Deadly Strike
+Set (2 items): +93 to Maximum Damage (Based on Character Level)
+
+
+Credendum
+Mithril Coil
+Defense: 115
+Durability: 8 of 16
+Required Level: 65
+Required Strength: 106
+Fingerprint: 0x6fe08026
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
++50 Defense
++10 to Strength
++10 to Dexterity
+All Resistances +15
+
+
+Dangoon's Teaching
+Reinforced Mace
+One Hand Damage: 41 - 161
+Durability: 39 of 60
+Required Level: 68
+Required Strength: 145
+Required Dexterity: 46
+Fingerprint: 0xaea188d9
+Item Level: 66
+Version: Expansion 1.10+
+Unidentified
+10% Chance to cast level 3 Frost Nova on striking
++40% Increased Attack Speed
++112 to Maximum Damage (Based on Character Level)
++150% Damage to Undead
+Adds 20 - 30 Fire Damage
+
+
+Dark Adherent
+Dusk Shroud
+Defense: 797
+Durability: 15 of 20
+Required Level: 49
+Required Strength: 77
+Fingerprint: 0x76e04947
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+25% Chance to cast level 3 Nova when struck
+Adds 24 - 34 Poison Damage Over 2 Secs (50 Frames)
++404 Defense
+Fire Resist +24%
+
+
+Death's Touch
+War Sword
+One Hand Damage: 10 - 25
+Durability: 40 of 44
+Required Level: 6
+Required Strength: 71
+Required Dexterity: 45
+Fingerprint: 0x6ef17806
+Item Level: 75
+Version: Expansion 1.10+
+Unidentified
+25% Enhanced Damage
+4% Life stolen per hit
+Set (2 items): Adds 25 - 75 Cold Damage Over 3 Secs (75 Frames)
+
+
+Griswold's Honor
+Vortex Shield
+Defense: 297
+Chance to Block: 39
+Durability: 84 of 90
+Required Level: 68
+Required Strength: 148
+Fingerprint: 0xee775c0a
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++65% Faster Block Rate
+20% Increased Chance of Blocking
++108 Defense
+All Resistances +45
+3 Sockets (0 used)
+
+
+Guillaume's Face
+Winged Helm
+Defense: 217
+Durability: 21 of 40
+Required Level: 34
+Required Strength: 115
+Fingerprint: 0x7cd6491b
+Item Level: 85
+Version: Expansion 1.10+
++30% Faster Hit Recovery
+35% Chance of Crushing Blow
+15% Deadly Strike
++120% Enhanced Defense
++15 to Strength
+
+
+Haemosu's Adamant
+Cuirass
+Defense: 689
+Durability: 46 of 50
+Required Level: 44
+Required Strength: 52
+Fingerprint: 0xc4d076e9
+Item Level: 71
+Version: Expansion 1.10+
+Unidentified
++500 Defense
++40 Defense vs. Melee
++35 Defense vs. Missile
++75 to Life
+Requirements -20%
+
+
+Hsarus' Iron Fist
+Buckler
+Defense: 5
+Chance to Block: 0
+Durability: 10 of 12
+Required Level: 3
+Required Strength: 12
+Fingerprint: 0x4f8180a6
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++10 to Strength
+Damage Reduced by 2
+Set (2 items): +187 Defense (Based on Character Level)
+
+
+Hsarus' Iron Stay
+Belt
+Defense: 5
+Durability: 8 of 16
+Required Level: 3
+Required Strength: 25
+Fingerprint: 0x7f3d6a56
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++20 to Life
+Cold Resist +20%
+Set (2 items): +187 Defense (Based on Character Level)
+
+
+Hwanin's Blessing
+Belt
+Defense: 117
+Durability: 11 of 16
+Required Level: 35
+Required Strength: 25
+Fingerprint: 0x9b3fa86d
+Item Level: 40
+Version: Expansion 1.10+
+Adds 3 - 33 Lightning Damage
+Prevent Monster Heal
++112 Defense (Based on Character Level)
+12% Damage Taken Goes To Mana
+
+
+Hwanin's Justice
+Bill
+Two Hand Damage: 42 - 159
+Durability: 30 of 50
+Required Level: 28
+Required Strength: 95
+Fingerprint: 0xe0ff6e37
+Item Level: 49
+Version: Expansion 1.10+
+Unidentified
+10% Chance to cast level 3 Ice Blast on striking
+Indestructible
++40% Increased Attack Speed
+200% Enhanced Damage
++330 to Attack Rating
+Adds 5 - 25 Lightning Damage
+
+
+Hwanin's Refuge
+Tigulated Mail
+Defense: 387
+Durability: 22 of 36
+Required Level: 30
+Required Strength: 86
+Fingerprint: 0xa01c51c2
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+10% Chance to cast level 3 Static Field when struck
++200 Defense
++100 to Life
+Poison Resist +27%
+
+
+Hwanin's Splendor
+Grand Crown
+Defense: 228
+Durability: 33 of 50
+Required Level: 45
+Required Strength: 103
+Fingerprint: 0xc7ab7973
+Item Level: 84
+Version: Expansion 1.10+
+Unidentified
++100% Enhanced Defense
+Replenish Life +20
+Cold Resist +37%
+Magic Damage Reduced by 10
+
+
+Immortal King's Detail
+War Belt
+Defense: 89
+Durability: 18 of 24
+Required Level: 29
+Required Strength: 110
+Fingerprint: 0x11bf69b0
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++36 Defense
++25 to Strength
+Lightning Resist +31%
+Fire Resist +28%
+Set (2 items): +105 Defense
+Set (3 items): +25% Faster Hit Recovery
+Set (4 items): +100% Enhanced Defense
+Set (5 items): Damage Reduced by 20%
+Set (6 items): +2 to Masteries Skills (Barbarian Only)
+
+
+Immortal King's Forge
+War Gauntlets
+Defense: 117
+Durability: 15 of 24
+Required Level: 30
+Required Strength: 110
+Fingerprint: 0x9beecb75
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+12% Chance to cast level 4 Charged Bolt when struck
++65 Defense
++20 to Strength
++20 to Dexterity
+Set (2 items): +25% Increased Attack Speed
+Set (3 items): +120 Defense
+Set (4 items): 10% Life stolen per hit
+Set (5 items): 10% Mana stolen per hit
+Set (6 items): Freezes target +2
+
+
+Immortal King's Soul Cage
+Sacred Armor
+Defense: 1001
+Durability: 56 of 60
+Required Level: 76
+Required Strength: 232
+Fingerprint: 0x40c6ce9a
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+5% Chance to cast level 5 Enchant when struck
++2 to Combat Skills (Barbarian Only)
++400 Defense
+Poison Resist +50%
+Set (2 items): +25% Faster Hit Recovery
+Set (3 items): Cold Resist +40%
+Set (4 items): Fire Resist +40%
+Set (5 items): Lightning Resist +40%
+Set (6 items): +50% Enhanced Defense
+
+
+Immortal King's Stone Crusher
+Ogre Maul
+Two Hand Damage: 231 - 318
+Durability: 36 of 60
+Required Level: 76
+Required Strength: 225
+Fingerprint: 0x6453aad2
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Indestructible
++40% Increased Attack Speed
+200% Enhanced Damage
++200% Damage to Demons
++350% Damage to Undead
+35% Chance of Crushing Blow
+Set (2 items): Adds 211 - 397 Fire Damage
+Set (3 items): Adds 7 - 477 Lightning Damage
+Set (4 items): Adds 127 - 364 Cold Damage Over 6 Secs (150 Frames)
+Set (5 items): Adds 204 Poison Damage Over 6 Secs (150 Frames)
+Set (6 items): Adds 250 - 361 Magic Damage
+2 Sockets (0 used)
+
+
+Immortal King's Will
+Avenger Guard
+Defense: 172
+Durability: 52 of 55
+Required Level: 47
+Required Strength: 65
+Fingerprint: 0xf9e2d2d7
+Item Level: 86
+Version: Expansion 1.10+
+Unidentified
++2 to Warcry Skills (Barbarian Only)
++125 Defense
+37% Extra Gold from Monsters
+32% Better Chance of Getting Magic Items
++4 to Light Radius
+2 Sockets (0 used)
+
+
+Infernal Sign
+Heavy Belt
+Defense: 31
+Durability: 17 of 18
+Required Level: 5
+Required Strength: 45
+Fingerprint: 0x25ab0ef6
+Item Level: 43
+Version: Expansion 1.10+
+Unidentified
++25 Defense
++20 to Life
+Set (2 items): Poison Resist +25%
+Set (3 items): Half Freeze Duration
+
+
+Infernal Torch
+Grim Wand
+One Hand Damage: 13 - 14
+Durability: 7 of 15
+Required Level: 5
+Fingerprint: 0xbf742b51
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Necromancer Skill Levels
++8 to Minimum Damage
+Set (2 items): +750 to Attack Rating (Based on Character Level)
+
+
+Iratha's Coil
+Crown
+Defense: 31
+Durability: 48 of 50
+Required Level: 15
+Required Strength: 55
+Fingerprint: 0x352afe4
+Item Level: 88
+Version: Expansion 1.10+
+Lightning Resist +30%
+Fire Resist +30%
+Set (2 items): +150 Defense (Based on Character Level)
+
+
+Iratha's Collar
+Amulet
+Required Level: 15
+Fingerprint: 0x4cf58f1d
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +30%
+Poison Length Reduced by 75%
+Set (2 items): Cold Resist +15%
+Lightning Resist +15%
+Fire Resist +15%
+Poison Resist +15%
+
+
+Iratha's Cord
+Heavy Belt
+Defense: 31
+Durability: 12 of 18
+Required Level: 15
+Required Strength: 45
+Fingerprint: 0x26acb4db
+Item Level: 86
+Version: Expansion 1.10+
+Unidentified
++5 to Minimum Damage
++25 Defense
+Set (2 items): +10 to Dexterity
+
+
+Iratha's Cuff
+Light Gauntlets
+Defense: 9
+Durability: 16 of 18
+Required Level: 15
+Required Strength: 45
+Fingerprint: 0xf4d58f66
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +30%
+Half Freeze Duration
+Set (2 items): +20% Increased Attack Speed
+
+
+Isenhart's Case
+Breast Plate
+Defense: 105
+Durability: 28 of 50
+Required Level: 8
+Required Strength: 30
+Fingerprint: 0x5fc91acf
+Item Level: 75
+Version: Expansion 1.10+
+Unidentified
++40 Defense
+Magic Damage Reduced by 2
+Set (2 items): +150 Defense (Based on Character Level)
+
+
+Isenhart's Horns
+Full Helm
+Defense: 23
+Durability: 15 of 30
+Required Level: 8
+Required Strength: 41
+Fingerprint: 0x92083638
+Item Level: 60
+Version: Expansion 1.10+
+Unidentified
++6 to Dexterity
+Damage Reduced by 2
+Set (2 items): Cold Resist +8%
+Lightning Resist +8%
+Fire Resist +8%
+Poison Resist +8%
+
+
+Isenhart's Lightbrand
+Broad Sword
+One Hand Damage: 17 - 18
+Durability: 29 of 32
+Required Level: 8
+Required Strength: 48
+Fingerprint: 0x8c0ced57
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++20% Increased Attack Speed
++10 to Minimum Damage
+Set (2 items): +375 to Attack Rating (Based on Character Level)
+
+
+Isenhart's Parry
+Gothic Shield
+Defense: 75
+Chance to Block: 0
+Durability: 39 of 40
+Required Level: 8
+Required Strength: 60
+Fingerprint: 0xf64716f5
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++40 Defense
+Attacker Takes Lightning Damage of 4
+Set (2 items): Cold Resist +8%
+Lightning Resist +8%
+Fire Resist +8%
+Poison Resist +8%
+
+
+Laying of Hands
+Bramble Mitts
+Defense: 82
+Durability: 6 of 12
+Required Level: 63
+Required Strength: 50
+Fingerprint: 0x57c032a6
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+10% Chance to cast level 3 Holy Bolt on striking
++20% Increased Attack Speed
++350% Damage to Demons
++25 Defense
+Fire Resist +50%
+
+
+M'avina's Caster
+Grand Matron Bow
+Two Hand Damage: 40 - 207
+Durability: 38 of 55
+Required Level: 70
+Required Strength: 108
+Required Dexterity: 152
+Fingerprint: 0x176aca9e
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++40% Increased Attack Speed
+Fires Magic Arrows
+188% Enhanced Damage
++50 to Attack Rating
+Set (2 items): Adds 114 - 377 Magic Damage
+Set (3 items): 10% Chance to cast level 15 Nova on striking
+Set (4 items): +2 to Bow and Crossbow Skills (Amazon Only)
+
+
+M'avina's Embrace
+Kraken Shell
+Defense: 1151
+Durability: 25 of 48
+Required Level: 70
+Required Strength: 122
+Fingerprint: 0x5a642b33
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+10% Chance to cast level 3 Glacial Spike when struck
++2 to Passive and Magic Skills (Amazon Only)
++300 Defense (Based on Character Level)
++350 Defense
+Magic Damage Reduced by 10
+Requirements -30%
+Set (3 items): +30% Faster Hit Recovery
+
+
+M'avina's Icy Clutch
+Battle Gauntlets
+Defense: 93
+Durability: 15 of 18
+Required Level: 32
+Required Strength: 88
+Fingerprint: 0xab3eb24d
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
+Adds 6 - 18 Cold Damage Over 6 Secs (150 Frames)
++49 Defense
++10 to Strength
++15 to Dexterity
+Half Freeze Duration
+56% Extra Gold from Monsters
+Set (4 items): Adds 131 - 252 Cold Damage Over 4 Secs (100 Frames)
+Set (5 items): +20% to Cold Skill Damage
+
+
+M'avina's Tenet
+Sharkskin Belt
+Defense: 81
+Durability: 9 of 14
+Required Level: 45
+Required Strength: 20
+Fingerprint: 0xba595201
+Item Level: 86
+Version: Expansion 1.10+
+Unidentified
++20% Faster Run/Walk
+5% Mana stolen per hit
++50 Defense
++5 to Light Radius
+Set (4 items): Cold Resist +25%
+Lightning Resist +25%
+Fire Resist +25%
+Poison Resist +25%
+
+
+M'avina's True Sight
+Diadem
+Defense: 208
+Durability: 19 of 20
+Required Level: 64
+Fingerprint: 0xff6761bd
+Item Level: 88
+Version: Expansion 1.10+
++30% Increased Attack Speed
++150 Defense
+Replenish Life +10
++25 to Mana
+Set (2 items): +1 to All Skills
+Set (3 items): 50% Bonus to Attack Rating
+Set (4 items): Cold Resist +25%
+Lightning Resist +25%
+Fire Resist +25%
+Poison Resist +25%
+
+
+Magnus' Skin
+Sharkskin Gloves
+Defense: 60
+Durability: 9 of 14
+Required Level: 37
+Required Strength: 20
+Fingerprint: 0xd2a2c13e
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
++20% Increased Attack Speed
++100 to Attack Rating
++50% Enhanced Defense
+Fire Resist +15%
++3 to Light Radius
+
+
+Milabrega's Diadem
+Crown
+Defense: 43
+Durability: 41 of 50
+Required Level: 17
+Required Strength: 55
+Fingerprint: 0x82e4d0a9
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++15 to Life
++15 to Mana
+Set (2 items): Cold Resist +40%
+
+
+Milabrega's Orb
+Kite Shield
+Defense: 44
+Chance to Block: 0
+Durability: 27 of 30
+Required Level: 17
+Required Strength: 47
+Fingerprint: 0x9ffeff06
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++25 Defense
+20% Better Chance of Getting Magic Items
+Set (2 items): +50 to Life
+Set (3 items): +50% Enhanced Defense
+
+
+Milabrega's Robe
+Ancient Armor
+Defense: 234
+Durability: 57 of 60
+Required Level: 17
+Required Strength: 100
+Fingerprint: 0x6fb3564b
+Item Level: 94
+Version: Expansion 1.10+
+Unidentified
+Damage Reduced by 2
+Attacker Takes Damage of 3
+Set (2 items): +100% Enhanced Defense
+
+
+Milabrega's Rod
+War Scepter
+One Hand Damage: 15 - 25
+Durability: 47 of 70
+Required Level: 17
+Required Strength: 55
+Fingerprint: 0x979d1c8e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Paladin Skill Levels
+50% Enhanced Damage
++150% Damage to Undead
++2 to Light Radius
+
+
+Naj's Circlet
+Circlet
+Defense: 102
+Durability: 22 of 35
+Required Level: 28
+Fingerprint: 0xad2900a7
+Item Level: 83
+Version: Expansion 1.10+
+Unidentified
+12% Chance to cast level 5 Chain Lightning when struck
+Adds 25 - 35 Fire Damage
++75 Defense
++15 to Strength
++5 to Light Radius
+
+
+Naj's Light Plate
+Hellforge Plate
+Defense: 731
+Durability: 56 of 60
+Required Level: 71
+Required Strength: 79
+Fingerprint: 0x8a0ce47a
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to All Skills
++300 Defense
++65 to Life
+All Resistances +25
+45% Damage Taken Goes To Mana
+Requirements -60%
+
+
+Naj's Puzzler
+Elder Staff
+Two Hand Damage: 200 - 232
+Durability: 20 of 35
+Required Level: 78
+Required Strength: 44
+Required Dexterity: 37
+Fingerprint: 0x4fe07037
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++1 to All Skills
++30% Faster Cast Rate
+150% Enhanced Damage
+Adds 6 - 45 Lightning Damage
++35 to Energy
++70 to Mana
+Level 11 Teleport (24/69 Charges)
+
+
+Natalya's Mark
+Scissors Suwayyah
+One Hand Damage: 120 - 153
+Durability: 42 of 68
+Required Level: 79
+Required Strength: 118
+Required Dexterity: 118
+Fingerprint: 0x49d9dc92
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++40% Increased Attack Speed
+200% Enhanced Damage
+Ignore Target's Defense
++200% Damage to Demons
++200% Damage to Undead
+Adds 12 - 17 Fire Damage
+Adds 50 Cold Damage Over 4 Secs (100 Frames)
+
+
+Ondal's Almighty
+Spired Helm
+Defense: 206
+Durability: 35 of 40
+Required Level: 69
+Required Strength: 116
+Fingerprint: 0xd44baed9
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+10% Chance to cast level 3 Weaken on striking
++24% Faster Hit Recovery
++50 Defense
++10 to Strength
++15 to Dexterity
+Requirements -40%
+
+
+Rite of Passage
+Demonhide Boots
+Defense: 53
+Durability: 8 of 12
+Required Level: 29
+Required Strength: 20
+Fingerprint: 0xb692300a
+Item Level: 60
+Version: Expansion 1.10+
+Unidentified
++30% Faster Run/Walk
++25 Defense
++22 Maximum Stamina
+Half Freeze Duration
+
+
+Sander's Riprap
+Heavy Boots
+Defense: 5
+Durability: 14 of 14
+Required Level: 20
+Required Strength: 18
+Fingerprint: 0x2343c13d
+Item Level: 75
+Version: Expansion 1.10+
++40% Faster Run/Walk
++100 to Attack Rating
++5 to Strength
++10 to Dexterity
+
+
+Sander's Superstition
+Bone Wand
+One Hand Damage: 5 - 12
+Durability: 10 of 15
+Required Level: 25
+Fingerprint: 0xe932be4b
+Item Level: 49
+Version: Expansion 1.10+
+Unidentified
++20% Faster Cast Rate
+75% Enhanced Damage
+Adds 25 - 75 Cold Damage Over 2 Secs (50 Frames)
+8% Mana stolen per hit
++25 to Mana
+
+
+Sander's Taboo
+Heavy Gloves
+Defense: 30
+Durability: 13 of 14
+Required Level: 28
+Fingerprint: 0x6d9c1097
+Item Level: 60
+Version: Expansion 1.10+
+Unidentified
++20% Increased Attack Speed
+Adds 9 - 11 Poison Damage Over 3 Secs (75 Frames)
++25 Defense
++40 to Life
+
+
+Sazabi's Cobalt Redeemer
+Cryptic Sword
+One Hand Damage: 12 - 192
+Durability: 33 of 44
+Required Level: 73
+Required Strength: 99
+Required Dexterity: 109
+Fingerprint: 0xebd622d7
+Item Level: 86
+Version: Expansion 1.10+
+Unidentified
+Indestructible
++40% Increased Attack Speed
+150% Enhanced Damage
++318% Damage to Demons
+Adds 25 - 35 Cold Damage Over 2 Secs (50 Frames)
++5 to Strength
++15 to Dexterity
+
+
+Sazabi's Ghost Liberator
+Balrog Skin
+Defense: 889
+Durability: 21 of 30
+Required Level: 67
+Required Strength: 165
+Fingerprint: 0xbc07a00d
+Item Level: 85
+Version: Expansion 1.10+
++30% Faster Hit Recovery
++300 to Attack Rating against Demons
++400 Defense
++25 to Strength
++60 to Life
+
+
+Sazabi's Mental Sheath
+Basinet
+Defense: 177
+Durability: 25 of 30
+Required Level: 43
+Required Strength: 82
+Fingerprint: 0x46d395a8
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++1 to All Skills
++100 Defense
+Lightning Resist +17%
+Fire Resist +18%
+
+
+Sigon's Gage
+Gauntlets
+Defense: 13
+Durability: 21 of 24
+Required Level: 6
+Required Strength: 60
+Fingerprint: 0x81485b87
+Item Level: 26
+Version: Expansion 1.10+
++20 to Attack Rating
++10 to Strength
+Set (2 items): +30% Increased Attack Speed
+
+
+Sigon's Guard
+Tower Shield
+Defense: 24
+Chance to Block: 44
+Durability: 38 of 60
+Required Level: 6
+Required Strength: 75
+Fingerprint: 0x2c86af0
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to All Skills
+20% Increased Chance of Blocking
+
+
+Sigon's Sabot
+Greaves
+Defense: 12
+Durability: 21 of 24
+Required Level: 6
+Required Strength: 70
+Fingerprint: 0x7aa9e173
+Item Level: 66
+Version: Expansion 1.10+
+Unidentified
++20% Faster Run/Walk
+Cold Resist +40%
+Set (2 items): +50 to Attack Rating
+Set (3 items): 50% Better Chance of Getting Magic Items
+
+
+Sigon's Shelter
+Gothic Plate
+Defense: 170
+Durability: 36 of 55
+Required Level: 6
+Required Strength: 70
+Fingerprint: 0x8a10b923
+Item Level: 40
+Version: Expansion 1.10+
+Unidentified
++25% Enhanced Defense
+Lightning Resist +30%
+Set (2 items): Attacker Takes Damage of 20
+
+
+Sigon's Visor
+Great Helm
+Defense: 56
+Durability: 39 of 40
+Required Level: 6
+Required Strength: 63
+Fingerprint: 0x625760fd
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++25 Defense
++30 to Mana
+Set (2 items): +600 to Attack Rating (Based on Character Level)
+
+
+Sigon's Wrap
+Plated Belt
+Defense: 11
+Durability: 19 of 24
+Required Level: 6
+Required Strength: 60
+Fingerprint: 0xd0493355
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++20 to Life
+Fire Resist +20%
+Set (2 items): +150 Defense (Based on Character Level)
+
+
+Tal Rasha's Adjudication
+Amulet
+Required Level: 67
+Fingerprint: 0xdddcecc4
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++2 to Sorceress Skill Levels
+Adds 3 - 32 Lightning Damage
++50 to Life
++42 to Mana
+Lightning Resist +33%
+Set (4 items): +10% Faster Cast Rate
+
+
+Tal Rasha's Fine-Spun Cloth
+Mesh Belt
+Defense: 36
+Durability: 14 of 16
+Required Level: 53
+Required Strength: 47
+Fingerprint: 0x3383ae04
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++20 to Dexterity
++30 to Mana
+37% Damage Taken Goes To Mana
+14% Better Chance of Getting Magic Items
+Requirements -20%
+Set (2 items): +60 Defense
+Set (3 items): +10% Faster Cast Rate
+
+
+Tal Rasha's Horadric Crest
+Death Mask
+Defense: 112
+Durability: 11 of 20
+Required Level: 66
+Required Strength: 55
+Fingerprint: 0xacef96a7
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+10% Mana stolen per hit
+10% Life stolen per hit
++45 Defense
++60 to Life
++30 to Mana
+All Resistances +15
+
+
+Tal Rasha's Lidless Eye
+Swirling Crystal
+One Hand Damage: 18 - 42
+Durability: 32 of 50
+Required Level: 65
+Fingerprint: 0x8010c869
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++20% Faster Cast Rate
++2 to Cold Mastery (Sorceress Only)
++2 to Lightning Mastery (Sorceress Only)
++1 to Fire Mastery (Sorceress Only)
++10 to Energy
++57 to Life
++77 to Mana
+Set (2 items): +1 to Sorceress Skill Levels
+Set (3 items): -15% to Enemy Fire Resistance
+Set (4 items): -15% to Enemy Lightning Resistance
+Set (5 items): +15% to Cold Skill Damage
+
+
+Tancred's Crowbill
+Military Pick
+One Hand Damage: 12 - 19
+Durability: 13 of 26
+Required Level: 20
+Required Strength: 49
+Required Dexterity: 33
+Fingerprint: 0xa3dc0eb7
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+80% Enhanced Damage
++75 to Attack Rating
+Set (2 items): +20 to Mana
+Set (3 items): +20% Increased Attack Speed
+
+
+Tancred's Hobnails
+Boots
+Defense: 3
+Durability: 11 of 12
+Required Level: 20
+Fingerprint: 0x7d52d3c9
+Item Level: 31
+Version: Expansion 1.10+
+Unidentified
++10 to Dexterity
+Heal Stamina Plus 25%
+Set (2 items): +30% Faster Run/Walk
+Set (3 items): +10 to Strength
+
+
+Tancred's Skull
+Bone Helm
+Defense: 33
+Durability: 36 of 40
+Required Level: 20
+Required Strength: 25
+Fingerprint: 0xb16894da
+Item Level: 75
+Version: Expansion 1.10+
+Unidentified
+10% Enhanced Damage
++40 to Attack Rating
+Set (2 items): Cold Resist +10%
+Lightning Resist +10%
+Fire Resist +10%
+Poison Resist +10%
+
+
+Tancred's Spine
+Full Plate Mail
+Defense: 158
+Durability: 63 of 70
+Required Level: 20
+Required Strength: 80
+Fingerprint: 0x7616d3a5
+Item Level: 49
+Version: Expansion 1.10+
+Unidentified
++15 to Strength
++40 to Life
+Set (2 items): +150 Defense (Based on Character Level)
+
+
+Tancred's Weird
+Amulet
+Required Level: 20
+Fingerprint: 0xc8f2a8eb
+Item Level: 85
+Version: Expansion 1.10+
+Damage Reduced by 2
+Magic Damage Reduced by 1
+Set (2 items): 78% Better Chance of Getting Magic Items
+Set (3 items): +60 to Attack Rating
+
+
+Telling of Beads
+Amulet
+Required Level: 30
+Fingerprint: 0x173738f6
+Item Level: 69
+Version: Expansion 1.10+
++1 to All Skills
+Cold Resist +18%
+Poison Resist +35%
+Attacker Takes Damage of 9
+
+
+Trang-Oul's Claws
+Heavy Bracers
+Defense: 69
+Durability: 14 of 16
+Required Level: 45
+Required Strength: 58
+Fingerprint: 0x573fb654
+Item Level: 55
+Version: Expansion 1.10+
++2 to Curses (Necromancer only)
++20% Faster Cast Rate
++25% to Poison Skill Damage
++30 Defense
+Cold Resist +30%
+
+
+Trang-Oul's Guise
+Bone Visage
+Defense: 234
+Durability: 37 of 40
+Required Level: 65
+Required Strength: 106
+Fingerprint: 0xf713e86b
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++25% Faster Hit Recovery
++98 Defense
+Replenish Life +5
++150 to Mana
+Attacker Takes Damage of 20
+
+
+Trang-Oul's Scales
+Chaos Armor
+Defense: 857
+Durability: 53 of 70
+Required Level: 49
+Required Strength: 84
+Fingerprint: 0xef09c12e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++2 to Summoning Skills (Necromancer Only)
++40% Faster Run/Walk
++150% Enhanced Defense
++100 Defense vs. Missile
+Poison Resist +40%
+Requirements -40%
+Set (3 items): Lightning Resist +50%
+Set (5 items): Damage Reduced by 25%
+
+
+Trang-Oul's Wing
+Cantor Trophy
+Defense: 188
+Chance to Block: 40
+Durability: 14 of 20
+Required Level: 54
+Required Strength: 50
+Fingerprint: 0xc8155fee
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++2 to Poison and Bone Skills (Necromancer Only)
+30% Increased Chance of Blocking
++125 Defense
++25 to Strength
++15 to Dexterity
+Fire Resist +39%
+Poison Resist +40%
+Set (3 items): -25% to Enemy Poison Resistance
+Set (4 items): Replenish Life +15
+
+
+Vidala's Ambush
+Leather Armor
+Defense: 67
+Durability: 15 of 24
+Required Level: 14
+Required Strength: 15
+Fingerprint: 0xcee44499
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++50 Defense
++11 to Dexterity
+Set (2 items): Fire Resist +24%
+Set (3 items): +187 Defense (Based on Character Level)
+
+
+Vidala's Barb
+Long Battle Bow
+Two Hand Damage: 3 - 18
+Durability: 36 of 44
+Required Level: 14
+Required Strength: 40
+Required Dexterity: 50
+Fingerprint: 0x45db47f6
+Item Level: 75
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 20 Lightning Damage
+Set (2 items): +600 to Attack Rating (Based on Character Level)
+
+
+Vidala's Snare
+Amulet
+Required Level: 14
+Fingerprint: 0x8cd5fe89
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++15 to Life
+Cold Resist +20%
+Set (2 items): 50% Better Chance of Getting Magic Items
+
+
+Whitstan's Guard
+Round Shield
+Defense: 154
+Chance to Block: 67
+Durability: 41 of 64
+Required Level: 29
+Required Strength: 53
+Fingerprint: 0x239f5c3
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++40% Faster Block Rate
+55% Increased Chance of Blocking
++175% Enhanced Defense
+Half Freeze Duration
++5 to Light Radius
+
+
+Wilhelm's Pride
+Battle Belt
+Defense: 75
+Durability: 10 of 18
+Required Level: 42
+Required Strength: 88
+Fingerprint: 0xb30e4962
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+5% Mana stolen per hit
+5% Life stolen per hit
++75% Enhanced Defense
+Cold Resist +10%
+
+
+Griswold's Valor
+Corona
+Defense: 270
+Durability: 27 of 50
+Required Level: 69
+Required Strength: 105
+Fingerprint: 0xc2b06e47
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++63% Enhanced Defense
+All Resistances +5
++18 Absorbs Cold Damage (Based on Character Level)
+23% Better Chance of Getting Magic Items
+Requirements -40%
+Set (2 items): +2 to Offensive Aura Skills (Paladin Only)
+2 Sockets (0 used)
+
+
+Griswold's Heart
+Ornate Plate
+Defense: 925
+Durability: 41 of 60
+Required Level: 45
+Required Strength: 102
+Fingerprint: 0xebc2a2ab
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++2 to Defensive Aura Skills (Paladin Only)
++500 Defense
++20 to Strength
+Requirements -40%
+3 Sockets (0 used)
+
+
+Immortal King's Pillar
+War Boots
+Defense: 126
+Durability: 16 of 24
+Required Level: 31
+Required Strength: 125
+Fingerprint: 0x95e6e472
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++40% Faster Run/Walk
++110 to Attack Rating
++75 Defense
++44 to Life
+Set (2 items): 25% Better Chance of Getting Magic Items
+Set (3 items): +2 to Combat Skills (Barbarian Only)
+Set (4 items): +160 Defense
+Set (5 items): Half Freeze Duration
+
+
+Aldur's Stony Gaze
+Hunter's Guise
+Defense: 158
+Durability: 16 of 20
+Required Level: 36
+Required Strength: 56
+Fingerprint: 0x4204294a
+Item Level: 65
+Version: Expansion 1.10+
+Unidentified
++25% Faster Hit Recovery
++90 Defense
+Regenerate Mana 17%
+Cold Resist +47%
++5 to Light Radius
+Set (2 items): +15 to Energy
+Set (3 items): +15 to Energy
+Set (4 items): +15 to Energy
+2 Sockets (0 used)
+
+
+Cow King's Hooves
+Heavy Boots
+Defense: 37
+Durability: 9 of 14
+Required Level: 13
+Required Strength: 18
+Fingerprint: 0x7d7ef62b
+Item Level: 84
+Version: Expansion 1.10+
++30% Faster Run/Walk
+Adds 25 - 35 Fire Damage
++31 Defense
++20 to Dexterity
+25% Better Chance of Getting Magic Items
+
+
+Cow King's Hide
+Studded Leather
+Defense: 57
+Durability: 26 of 32
+Required Level: 18
+Required Strength: 27
+Fingerprint: 0x9265d4b0
+Item Level: 81
+Version: Expansion 1.10+
+18% Chance to cast level 5 Chain Lightning when struck
++60% Enhanced Defense
++30 to Life
+All Resistances +18
+
+
+Death's Hand
+Leather Gloves
+Defense: 3
+Durability: 7 of 12
+Required Level: 6
+Fingerprint: 0x3e77fe31
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +50%
+Poison Length Reduced by 75%
+Set (2 items): +30% Increased Attack Speed
+
+
+Hsarus' Iron Heel
+Chain Boots
+Defense: 9
+Durability: 14 of 16
+Required Level: 3
+Required Strength: 30
+Fingerprint: 0xa69f4ad4
+Item Level: 44
+Version: Expansion 1.10+
+Unidentified
++20% Faster Run/Walk
+Fire Resist +25%
+Set (2 items): +750 to Attack Rating (Based on Character Level)
+
+
+Natalya's Totem
+Grim Helm
+Defense: 283
+Durability: 32 of 40
+Required Level: 59
+Required Strength: 58
+Fingerprint: 0xd1e4a362
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++158 Defense
++17 to Strength
++27 to Dexterity
+All Resistances +17
+Magic Damage Reduced by 3
+
+
+Natalya's Soul
+Mesh Boots
+Defense: 139
+Durability: 11 of 66
+Required Level: 25
+Required Strength: 65
+Fingerprint: 0x68cc7785
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
++40% Faster Run/Walk
++98 Defense
+Heal Stamina Plus (Based on Character Level) +18%
+Cold Resist +20%
+Lightning Resist +20%
++50 Maximum Durability
+
+
+Natalya's Shadow
+Loricated Mail
+Defense: 646
+Durability: 19 of 36
+Required Level: 73
+Required Strength: 149
+Fingerprint: 0x5495e00d
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++2 to Shadow Discipline Skills (Assassin Only)
++154 Defense
++75 to Life (Based on Character Level)
+Poison Resist +25%
+Poison Length Reduced by 75%
+2 Sockets (0 used)
+
+
+Taebaek's Glory
+Ward
+Defense: 207
+Chance to Block: 49
+Durability: 90 of 100
+Required Level: 81
+Required Strength: 185
+Fingerprint: 0x3b142c90
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
+Indestructible
++30% Faster Block Rate
+25% Increased Chance of Blocking
++50 Defense
++100 to Mana
+Lightning Resist +30%
+Attacker Takes Damage of 30
+
+
+Tal Rasha's Guardianship
+Lacquered Plate
+Defense: 841
+Durability: 38 of 55
+Required Level: 71
+Required Strength: 84
+Fingerprint: 0xebfee031
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++400 Defense
+Cold Resist +40%
+Lightning Resist +40%
+Fire Resist +40%
+Magic Damage Reduced by 15
+88% Better Chance of Getting Magic Items
+Requirements -60%
+Set (2 items): +10% Faster Cast Rate
+
+
+Tal Rasha's Lidless Eye
+Swirling Crystal
+One Hand Damage: 18 - 42
+Durability: 50 of 50
+Required Level: 65
+Fingerprint: 0x635c5496
+Item Level: 75
+Version: Expansion 1.10+
++20% Faster Cast Rate
++2 to Cold Mastery (Sorceress Only)
++1 to Lightning Mastery (Sorceress Only)
++2 to Fire Mastery (Sorceress Only)
++10 to Energy
++57 to Life
++77 to Mana
+Set (2 items): +1 to Sorceress Skill Levels
+Set (3 items): -15% to Enemy Fire Resistance
+Set (4 items): -15% to Enemy Lightning Resistance
+Set (5 items): +15% to Cold Skill Damage
+
+
+Trang-Oul's Girth
+Troll Belt
+Defense: 146
+Durability: 11 of 18
+Required Level: 62
+Required Strength: 91
+Fingerprint: 0xc560cdb4
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++80 Defense
++66 to Life
+Replenish Life +5
++46 to Mana
++30 Maximum Stamina
+Cannot Be Frozen
+Requirements -40%
+Set (3 items): Cold Resist +40%
+
+
+Vidala's Fetlock
+Light Plated Boots
+Defense: 11
+Durability: 17 of 18
+Required Level: 14
+Required Strength: 50
+Fingerprint: 0x579199d0
+Item Level: 99
+Version: Expansion 1.10+
+Unidentified
++30% Faster Run/Walk
++150 Maximum Stamina
+Set (2 items): Cold Resist +8%
+Lightning Resist +8%
+Fire Resist +8%
+Poison Resist +8%
+
+Finished: C:\Program Files (x86)\Diablo II\GoMule\SC\Grail_Sets.d2x
+

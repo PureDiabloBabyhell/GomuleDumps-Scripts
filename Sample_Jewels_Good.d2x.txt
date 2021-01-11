@@ -1,0 +1,263 @@
+C:\Program Files (x86)\Diablo II\GoMule\SC\Jewels_Good.d2x
+
+
+Beryl Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0x6009b1c9
+Item Level: 14
+Version: Expansion 1.10+
+Poison Resist +11%
+Requirements -15%
+
+Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0x401c6d38
+Item Level: 2
+Version: Expansion 1.10+
+Requirements -15%
+
+Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0x462bfa15
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Requirements -15%
+
+Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0x5a645659
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Requirements -15%
+
+Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0x77de3e1f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Requirements -15%
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0x42a37097
+Item Level: 4
+Version: Expansion 1.10+
++6 to Life
+
+Lapis Lazuli Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0x30707e08
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +8%
+Requirements -15%
+
+Nickel Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0x4fb9a533
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++14 to Attack Rating
+Requirements -15%
+
+Shimmering Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0xabd8bc4e
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +10%
+Lightning Resist +10%
+Fire Resist +10%
+Poison Resist +10%
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0xafa4f868
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++15 to Maximum Damage
+
+Scintillating Jewel
+Jewel
+Required Level: 26
+Fingerprint: 0x6a779754
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +14%
+Lightning Resist +14%
+Fire Resist +14%
+Poison Resist +14%
+
+Eburine Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0xbcbfad
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
++14 Defense
+
+Garnet Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0x36796b7a
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+Fire Resist +12%
+
+Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0xd3ee1caa
+Item Level: 69
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+
+Tin Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0xf2b23641
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
++39 to Attack Rating
+
+Blood Whorl
+Jewel
+Required Level: 37
+Fingerprint: 0x8d7fa8e4
+Item Level: 47
+Version: Expansion 1.10+
+29% Enhanced Damage
+Heal Stamina Plus 14%
+Requirements -15%
+
+Realgar Jewel of Fervor
+Jewel
+Required Level: 37
+Fingerprint: 0xde030ade
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+21% Enhanced Damage
+
+Vermilion Jewel of Virility
+Jewel
+Required Level: 50
+Fingerprint: 0xe2937bd9
+Item Level: 80
+Version: Expansion 1.10+
++14 to Maximum Damage
++7 to Strength
+
+Ruby Jewel
+Jewel
+Required Level: 58
+Fingerprint: 0xf68a5deb
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+40% Enhanced Damage
+
+Ruby Jewel of Bliss
+Jewel
+Required Level: 58
+Fingerprint: 0xd4fff762
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+40% Enhanced Damage
++10 to Minimum Damage
+
+Ruby Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0xc6bc3c81
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+Fire Resist +25%
+
+Ruby Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0x8bdf0473
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+Fire Resist +24%
+
+Scintillating Jewel
+Jewel
+Required Level: 26
+Fingerprint: 0x2f13c10c
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +13%
+Lightning Resist +13%
+Fire Resist +13%
+Poison Resist +13%
+
+Scintillating Jewel
+Jewel
+Required Level: 26
+Fingerprint: 0x9d6afb22
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +15%
+Lightning Resist +15%
+Fire Resist +15%
+Poison Resist +15%
+
+Rusty Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0xa17619e6
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+15% Enhanced Damage
+
+Scintillating Jewel of Daring
+Jewel
+Required Level: 26
+Fingerprint: 0xc40014ed
+Item Level: 62
+Version: Expansion 1.10+
+Unidentified
++2 to Dexterity
+Cold Resist +14%
+Lightning Resist +14%
+Fire Resist +14%
+Poison Resist +14%
+Finished: C:\Program Files (x86)\Diablo II\GoMule\SC\Jewels_Good.d2x
+

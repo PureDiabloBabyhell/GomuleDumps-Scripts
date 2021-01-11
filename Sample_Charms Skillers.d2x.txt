@@ -1,0 +1,437 @@
+C:\Program Files (x86)\Diablo II\GoMule\SC\Charms Skillers.d2x
+
+
+Burning Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x7c0a6962
+Item Level: 80
+Version: Expansion 1.10+
++1 to Fire Skills (Sorceress Only)
+
+Fungal Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x3ce5dffe
+Item Level: 69
+Version: Expansion 1.10+
+Unidentified
++1 to Poison and Bone Skills (Necromancer Only)
+
+Entrapping Grand Charm of Inertia
+Grand Charm
+Required Level: 42
+Fingerprint: 0xdb9d5349
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Trap Skills (Assassin Only)
++7% Faster Run/Walk
+
+Entrapping Grand Charm of Shock
+Grand Charm
+Required Level: 42
+Fingerprint: 0x9e4c2030
+Item Level: 80
+Version: Expansion 1.10+
++1 to Trap Skills (Assassin Only)
+Adds 1 - 3 Lightning Damage
+
+Expert's Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0xb3aecc95
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Combat Skills (Barbarian Only)
+
+Fanatic Grand Charm of Balance
+Grand Charm
+Required Level: 42
+Fingerprint: 0x5d097c8d
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Masteries Skills (Barbarian Only)
++12% Faster Hit Recovery
+
+Natural Grand Charm of Strength
+Grand Charm
+Required Level: 42
+Fingerprint: 0x852b3e16
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Elemental Skills (Druid Only)
++4 to Strength
+
+Sparking Grand Charm of Incineration
+Grand Charm
+Required Level: 42
+Fingerprint: 0x269602f7
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Lightning Skills (Sorceress Only)
+Adds 7 - 13 Fire Damage
+
+Spiritual Grand Charm of Dexterity
+Grand Charm
+Required Level: 42
+Fingerprint: 0x9b25d034
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Shape-Shifting Skills (Druid Only)
++4 to Dexterity
+
+Trainer's Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x736f8cd3
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Summoning Skills (Druid Only)
+
+Fungal Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0xcaf48c1d
+Item Level: 81
+Version: Expansion 1.10+
++1 to Poison and Bone Skills (Necromancer Only)
+
+Natural Grand Charm of Strength
+Grand Charm
+Required Level: 42
+Fingerprint: 0xfde9f09b
+Item Level: 81
+Version: Expansion 1.10+
++1 to Elemental Skills (Druid Only)
++5 to Strength
+
+Burning Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0xf49e410f
+Item Level: 85
+Version: Expansion 1.10+
++1 to Fire Skills (Sorceress Only)
+
+Graverobber's Grand Charm of Balance
+Grand Charm
+Required Level: 42
+Fingerprint: 0xb7b1e46b
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Summoning Skills (Necromancer Only)
++12% Faster Hit Recovery
+
+Natural Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0xf17a2f05
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Elemental Skills (Druid Only)
+
+Preserver's Grand Charm of Life
+Grand Charm
+Required Level: 42
+Fingerprint: 0x64b2906f
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Defensive Aura Skills (Paladin Only)
++8 to Life
+
+Shogukusha's Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x97936165
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Martial Art Skills (Assassin Only)
+
+Trainer's Grand Charm of Dexterity
+Grand Charm
+Required Level: 42
+Fingerprint: 0x4f63439f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Summoning Skills (Druid Only)
++4 to Dexterity
+
+Hexing Grand Charm of Dexterity
+Grand Charm
+Required Level: 42
+Fingerprint: 0x957e2fa5
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Curses (Necromancer only)
++5 to Dexterity
+
+Graverobber's Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0xa3ff6e9d
+Item Level: 80
+Version: Expansion 1.10+
++1 to Summoning Skills (Necromancer Only)
+
+Entrapping Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x50d6dac0
+Item Level: 99
+Version: Expansion 1.10+
+Unidentified
++1 to Trap Skills (Assassin Only)
+
+Fanatic Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x9709e6f7
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Masteries Skills (Barbarian Only)
+
+Graverobber's Grand Charm of Life
+Grand Charm
+Required Level: 42
+Fingerprint: 0xdab5db98
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++1 to Summoning Skills (Necromancer Only)
++9 to Life
+
+Harpoonist's Grand Charm of Flame
+Grand Charm
+Required Level: 42
+Fingerprint: 0x7f8d36db
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Javelin and Spear Skills (Amazon Only)
+Adds 1 - 2 Fire Damage
+
+Preserver's Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0xb6eace53
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++1 to Defensive Aura Skills (Paladin Only)
+
+Preserver's Grand Charm of Life
+Grand Charm
+Required Level: 42
+Fingerprint: 0x1452c410
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Defensive Aura Skills (Paladin Only)
++9 to Life
+
+Shogukusha's Grand Charm of Sustenance
+Grand Charm
+Required Level: 42
+Fingerprint: 0xda477df6
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++1 to Martial Art Skills (Assassin Only)
++21 to Life
+
+Sounding Grand Charm of Greed
+Grand Charm
+Required Level: 42
+Fingerprint: 0x35d96aac
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Warcry Skills (Barbarian Only)
+37% Extra Gold from Monsters
+
+Fungal Grand Charm of Vita
+Grand Charm
+Required Level: 69
+Fingerprint: 0xb60a4c00
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Poison and Bone Skills (Necromancer Only)
++36 to Life
+
+Captain's Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x43c6a0f8
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Offensive Aura Skills (Paladin Only)
+
+Entrapping Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x7bc7fa41
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++1 to Trap Skills (Assassin Only)
+
+Expert's Grand Charm of Greed
+Grand Charm
+Required Level: 42
+Fingerprint: 0xdb118be3
+Item Level: 85
+Version: Expansion 1.10+
++1 to Combat Skills (Barbarian Only)
+35% Extra Gold from Monsters
+
+Fletcher's Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0xbbd38fad
+Item Level: 88
+Version: Expansion 1.10+
++1 to Bow and Crossbow Skills (Amazon Only)
+
+Fungal Grand Charm of Life
+Grand Charm
+Required Level: 42
+Fingerprint: 0x18c88d5b
+Item Level: 75
+Version: Expansion 1.10+
+Unidentified
++1 to Poison and Bone Skills (Necromancer Only)
++8 to Life
+
+Graverobber's Grand Charm of Quality
+Grand Charm
+Required Level: 42
+Fingerprint: 0x564132d7
+Item Level: 85
+Version: Expansion 1.10+
++1 to Summoning Skills (Necromancer Only)
++2 to Maximum Damage
+
+Harpoonist's Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0xa1dddf68
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Javelin and Spear Skills (Amazon Only)
+
+Preserver's Grand Charm of Burning
+Grand Charm
+Required Level: 42
+Fingerprint: 0xfe1c8d58
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++1 to Defensive Aura Skills (Paladin Only)
+Adds 2 - 5 Fire Damage
+
+Shogukusha's Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x5f4a2440
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++1 to Martial Art Skills (Assassin Only)
+
+Sparking Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0xf40fdddd
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Lightning Skills (Sorceress Only)
+
+Sparking Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x608bdd78
+Item Level: 80
+Version: Expansion 1.10+
++1 to Lightning Skills (Sorceress Only)
+
+Spiritual Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x8b558e3a
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Shape-Shifting Skills (Druid Only)
+
+Spiritual Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x1e9c8d97
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
++1 to Shape-Shifting Skills (Druid Only)
+
+Spiritual Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0xf226a2f3
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Shape-Shifting Skills (Druid Only)
+
+Trainer's Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x6da0a6aa
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++1 to Summoning Skills (Druid Only)
+
+Trainer's Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0x418b55bf
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Summoning Skills (Druid Only)
+
+Spiritual Grand Charm of Life
+Grand Charm
+Required Level: 42
+Fingerprint: 0x3440d010
+Item Level: 87
+Version: Expansion 1.10+
++1 to Shape-Shifting Skills (Druid Only)
++20 to Life
+
+Captain's Grand Charm
+Grand Charm
+Required Level: 42
+Fingerprint: 0xb5d3c5c5
+Item Level: 80
+Version: Expansion 1.10+
++1 to Offensive Aura Skills (Paladin Only)
+Finished: C:\Program Files (x86)\Diablo II\GoMule\SC\Charms Skillers.d2x
+

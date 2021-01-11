@@ -1,0 +1,7060 @@
+C:\Program Files (x86)\Diablo II\GoMule\SC\Jewels.d2x
+
+
+Jewel of Burning
+Jewel
+Required Level: 49
+Fingerprint: 0x5143acfa
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Adds 12 - 48 Fire Damage
+
+Brown Jewel of Avarice
+Jewel
+Required Level: 31
+Fingerprint: 0x845df712
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Heal Stamina Plus 13%
+19% Extra Gold from Monsters
+
+Skull Whorl
+Jewel
+Required Level: 31
+Fingerprint: 0x3268a72d
+Item Level: 86
+Version: Expansion 1.10+
+Unidentified
++6 to Dexterity
++16 Maximum Stamina
+Heal Stamina Plus 10%
+
+Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0xd2c1b748
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+5% Better Chance of Getting Magic Items
+
+Jade Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0x91c3c02f
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Replenish Life +4
+Poison Resist +26%
+
+Dread Whorl
+Jewel
+Required Level: 16
+Fingerprint: 0xa3c333f2
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 3 - 4 Damage
+Adds 1 - 15 Lightning Damage
++1 to Mana after each Kill
+
+Carbuncle Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0x73c3233d
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++4 to Maximum Damage
+
+Jewel of Daring
+Jewel
+Required Level: 14
+Fingerprint: 0x45919199
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++4 to Dexterity
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x4f6e7c0e
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Strength
+
+Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x452e2c85
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Minimum Damage
+
+Ivory Jewel of Daring
+Jewel
+Required Level: 56
+Fingerprint: 0xa56eedaa
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++43 Defense
++3 to Dexterity
+
+Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x5f48b9a2
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Minimum Damage
+
+Nickel Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0xc961ccf0
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++17 to Attack Rating
++8 to Strength
+
+Argent Jewel
+Jewel
+Required Level: 36
+Fingerprint: 0x7f9f9218
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++79 to Attack Rating
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0x6d48f91b
+Item Level: 81
+Version: Expansion 1.10+
+Attacker Takes Damage of 2
+
+Camphor Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0x52ac0fe0
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Lightning Resist +11%
+Requirements -15%
+
+Camphor Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0xa47eb5c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 46 Lightning Damage
+Lightning Resist +11%
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0xf8d95fb9
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++3 to Maximum Damage
+
+Zircon Jewel
+Jewel
+Required Level: 2
+Fingerprint: 0xfc1ed648
+Item Level: 80
+Version: Expansion 1.10+
++10 to Mana
+
+Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0x6305cc85
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+7% Better Chance of Getting Magic Items
+
+Scarlet Jewel of Ire
+Jewel
+Required Level: 6
+Fingerprint: 0x4d546281
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 3 Damage
+
+Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0xf5eb5210
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+
+Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0xf670a327
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Requirements -15%
+
+Cinnabar Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x49880ba5
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+10% Enhanced Damage
+
+Lapis Lazuli Jewel of Passion
+Jewel
+Required Level: 11
+Fingerprint: 0xa5e65394
+Item Level: 43
+Version: Expansion 1.10+
+Adds 3 - 8 Fire Damage
+Cold Resist +11%
+
+Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0x87d9c21f
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++9 to Dexterity
+
+Argent Jewel of Passion
+Jewel
+Required Level: 36
+Fingerprint: 0xf85f2c33
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++94 to Attack Rating
+Adds 2 - 7 Fire Damage
+
+Vermilion Jewel of Ennui
+Jewel
+Required Level: 50
+Fingerprint: 0x74292e69
+Item Level: 80
+Version: Expansion 1.10+
++11 to Maximum Damage
+Adds 1 - 14 Lightning Damage
+
+Nickel Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xefef93e8
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++10 to Attack Rating
+
+Jewel of Daring
+Jewel
+Required Level: 14
+Fingerprint: 0x3caab392
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++5 to Dexterity
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0xa75931af
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+18% Extra Gold from Monsters
+
+Grim Scarab
+Jewel
+Required Level: 28
+Fingerprint: 0xc8081a0f
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 35 Lightning Damage
++5 to Strength
++2 to Mana after each Kill
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0x88ac0022
+Item Level: 50
+Version: Expansion 1.10+
+Unidentified
++5 to Life
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0x1f752539
+Item Level: 14
+Version: Expansion 1.10+
++5 to Maximum Damage
+
+Brown Jewel of Virility
+Jewel
+Required Level: 31
+Fingerprint: 0xa15ceb95
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++5 to Strength
+Heal Stamina Plus 15%
+
+Emerald Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x3bb7b063
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Strength
+6% Better Chance of Getting Magic Items
+
+Tin Jewel
+Jewel
+Required Level: 6
+Fingerprint: 0x81b35cb8
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++24 to Attack Rating
+
+Sapphire Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0xa785384b
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +25%
+
+Jewel of Ennui
+Jewel
+Required Level: 11
+Fingerprint: 0x633fa20b
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 19 Lightning Damage
+
+Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0x9856ba05
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++6 to Strength
+
+Camphor Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xab9324ff
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Lightning Resist +6%
+
+Nickel Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0x42802c8b
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
++11 to Maximum Damage
++10 to Attack Rating
+
+Jewel of Joyfulness
+Jewel
+Required Level: 3
+Fingerprint: 0xf3e7be4f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Minimum Damage
+
+Tin Jewel
+Jewel
+Required Level: 6
+Fingerprint: 0xa9c67215
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++33 to Attack Rating
+
+Rusty Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x47dc753f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+17% Enhanced Damage
++8 to Strength
+
+Cinnabar Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xef64afb3
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+7% Enhanced Damage
+
+Cinnabar Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0x6779ec2c
+Item Level: 66
+Version: Expansion 1.10+
+Unidentified
+6% Enhanced Damage
+20% Extra Gold from Monsters
+
+Wraith Heart
+Jewel
+Required Level: 25
+Fingerprint: 0x28dc6f19
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++2 to Maximum Damage
++40 to Attack Rating
+Adds 1 - 12 Lightning Damage
++5 to Strength
+
+Death Scarab
+Jewel
+Required Level: 29
+Fingerprint: 0xaf8c6a67
+Item Level: 84
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 17 Lightning Damage
++23 Maximum Stamina
+Attacker Takes Damage of 1
+
+Beryl Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x4c3e7d02
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +15%
+
+Crimson Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x56a32157
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Minimum Damage
++9 to Strength
+
+Eburine Jewel of Ire
+Jewel
+Required Level: 12
+Fingerprint: 0x933aeb33
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++2 to Maximum Damage
++15 Defense
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x72032655
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++9 to Strength
+
+Argent Jewel
+Jewel
+Required Level: 36
+Fingerprint: 0xd32fa7d
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++89 to Attack Rating
+
+Jewel of Burning
+Jewel
+Required Level: 49
+Fingerprint: 0x65f375df
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Adds 14 - 50 Fire Damage
+
+Jewel of Joyfulness
+Jewel
+Required Level: 3
+Fingerprint: 0x8ed2a292
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++3 to Minimum Damage
+
+Scarlet Jewel
+Jewel
+Required Level: 6
+Fingerprint: 0x4bf8aec1
+Item Level: 85
+Version: Expansion 1.10+
++1 to Minimum Damage
+
+Jewel of Hope
+Jewel
+Required Level: 37
+Fingerprint: 0x4405f84b
+Item Level: 80
+Version: Expansion 1.10+
++16 to Life
+
+Blanched Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xfcdc0a39
+Item Level: 11
+Version: Expansion 1.10+
+Unidentified
++8 Defense
+
+Brown Jewel
+Jewel
+Required Level: 31
+Fingerprint: 0x676d0976
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Heal Stamina Plus 13%
+
+Ivory Jewel
+Jewel
+Required Level: 56
+Fingerprint: 0x82ff4f5e
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++48 Defense
+
+Garnet Jewel of Hope
+Jewel
+Required Level: 37
+Fingerprint: 0xb2a2b869
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++17 to Life
+Fire Resist +11%
+
+Tin Jewel
+Jewel
+Required Level: 6
+Fingerprint: 0x25e85d7d
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
++36 to Attack Rating
+
+Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0xd5a54fca
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
++6 to Maximum Damage
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0x7c1b9464
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++3 to Dexterity
+
+Tin Jewel
+Jewel
+Required Level: 6
+Fingerprint: 0x4e185050
+Item Level: 17
+Version: Expansion 1.10+
++30 to Attack Rating
+
+Jewel of the Icicle
+Jewel
+Required Level: 29
+Fingerprint: 0x5f44f32f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 2 - 7 Cold Damage Over 2 Secs (50 Frames)
+
+Tin Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x84c69e21
+Item Level: 85
+Version: Expansion 1.10+
++24 to Attack Rating
++9 to Strength
+
+Nickel Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x6106deb7
+Item Level: 86
+Version: Expansion 1.10+
+Unidentified
++18 to Attack Rating
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0x39b61604
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Dexterity
+
+Ruby Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x940ad898
+Item Level: 82
+Version: Expansion 1.10+
+Unidentified
++1 to Strength
+Fire Resist +17%
+
+Brown Jewel
+Jewel
+Required Level: 31
+Fingerprint: 0xa2162471
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Heal Stamina Plus 12%
+
+Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0xd48115d5
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 33 Lightning Damage
+
+Scarlet Jewel of Fire
+Jewel
+Required Level: 28
+Fingerprint: 0xe02f7801
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Minimum Damage
+Adds 6 - 30 Fire Damage
+
+Wraith Whorl
+Jewel
+Required Level: 28
+Fingerprint: 0x86ed318e
+Item Level: 45
+Version: Expansion 1.10+
+Unidentified
++8 to Maximum Damage
++7 to Dexterity
++10 Maximum Stamina
++3 to Mana after each Kill
+
+Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0xba565672
+Item Level: 63
+Version: Expansion 1.10+
+Unidentified
++6 to Maximum Damage
+
+Carbuncle Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0xa9ab5820
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Maximum Damage
+
+Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0xb1281d84
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++5 to Strength
+
+Cinnabar Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0x6b51e268
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+7% Enhanced Damage
+23% Extra Gold from Monsters
+
+Realgar Jewel
+Jewel
+Required Level: 37
+Fingerprint: 0x847890e
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
+30% Enhanced Damage
+
+Nickel Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0xad5040da
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Maximum Damage
++14 to Attack Rating
+
+Chestnut Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0xddf472bf
+Item Level: 77
+Version: Expansion 1.10+
+Unidentified
++5 to Energy
++14 Maximum Stamina
+
+Crimson Jewel
+Jewel
+Required Level: 30
+Fingerprint: 0x1a81955d
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++5 to Minimum Damage
+
+Garnet Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x6c2dd634
+Item Level: 24
+Version: Expansion 1.10+
+Fire Resist +8%
+
+Ambergris Jewel of Wrath
+Jewel
+Required Level: 14
+Fingerprint: 0xf34ccaf9
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Maximum Damage
+Lightning Resist +29%
+
+Jewel of Daring
+Jewel
+Required Level: 14
+Fingerprint: 0x3d22aeaa
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Dexterity
+
+Argent Jewel of Knowledge
+Jewel
+Required Level: 36
+Fingerprint: 0x31e9d415
+Item Level: 84
+Version: Expansion 1.10+
++94 to Attack Rating
++4 to Energy
+
+Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0xdcb02f28
+Item Level: 10
+Version: Expansion 1.10+
+Unidentified
+Requirements -15%
+
+Storm Heart
+Jewel
+Required Level: 49
+Fingerprint: 0xe7b3b840
+Item Level: 86
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 79 Lightning Damage
++1 to Dexterity
+Lightning Resist +8%
+
+Lapis Lazuli Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x3228e4e0
+Item Level: 57
+Version: Expansion 1.10+
+Cold Resist +5%
+
+Jewel of Knowledge
+Jewel
+Required Level: 33
+Fingerprint: 0xcc32cb25
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++7 to Energy
+
+Ruby Jewel
+Jewel
+Required Level: 58
+Fingerprint: 0xc769caff
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+32% Enhanced Damage
+
+Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0x53b94987
+Item Level: 83
+Version: Expansion 1.10+
+Unidentified
+8% Better Chance of Getting Magic Items
+
+Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0x13efd4ad
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Dexterity
+
+Maroon Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0xb61bd631
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++18 Maximum Stamina
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0x31cc71a2
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Maximum Damage
+
+Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0x9c995a90
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 21 Lightning Damage
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0x67d5b78a
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Dexterity
+
+Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0x67a8001f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++9 to Maximum Damage
+
+Eburine Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0xee124d8c
+Item Level: 85
+Version: Expansion 1.10+
++16 Defense
+
+Realgar Jewel
+Jewel
+Required Level: 37
+Fingerprint: 0xc6af88bc
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+29% Enhanced Damage
+
+Plague Gyre
+Jewel
+Required Level: 14
+Fingerprint: 0x5ec37f18
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+20% Enhanced Damage
++13 Maximum Stamina
+Cold Resist +26%
+
+Carbuncle Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0xe8bdd5eb
+Item Level: 80
+Version: Expansion 1.10+
++5 to Maximum Damage
+7% Better Chance of Getting Magic Items
+
+Bone Jewel of Carnage
+Jewel
+Required Level: 24
+Fingerprint: 0xff17ce2e
+Item Level: 80
+Version: Expansion 1.10+
++12 to Maximum Damage
++32 Defense
+
+Nickel Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x3cdc7486
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++12 to Attack Rating
+
+Vermilion Jewel of Malice
+Jewel
+Required Level: 50
+Fingerprint: 0x52e0e09d
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++14 to Maximum Damage
+Attacker Takes Damage of 1
+
+Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0xd51d0790
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++7 to Maximum Damage
+
+Lapis Lazuli Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xdec3b552
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +5%
+
+Dread Scarab
+Jewel
+Required Level: 29
+Fingerprint: 0x4cff47f1
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+15% Enhanced Damage
+Adds 5 - 23 Fire Damage
++5 to Strength
+Attacker Takes Damage of 4
+
+Blood Eye
+Jewel
+Required Level: 37
+Fingerprint: 0xaab31faa
+Item Level: 85
+Version: Expansion 1.10+
+Adds 8 - 6 Damage
+Adds 1 - 25 Lightning Damage
+Replenish Life +4
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0xcbe41ff2
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Energy
+
+Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x4bb279dc
+Item Level: 84
+Version: Expansion 1.10+
++4 to Strength
+
+Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0xde071b33
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Strength
+
+Aureolic Jewel
+Jewel
+Required Level: 16
+Fingerprint: 0x67ccc7a0
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++3 to Mana after each Kill
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0x2df7b2d1
+Item Level: 30
+Version: Expansion 1.10+
+28% Extra Gold from Monsters
+
+Dun Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0x9fdb1a5f
+Item Level: 50
+Version: Expansion 1.10+
+Replenish Life +3
+7% Damage Taken Goes To Mana
+
+Chestnut Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0x8cba710b
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++7 to Dexterity
++15 Maximum Stamina
+
+Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0xc6b10314
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Strength
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0x93c5a07f
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+11% Extra Gold from Monsters
+
+Ruby Jewel
+Jewel
+Required Level: 13
+Fingerprint: 0xc2f5738a
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Fire Resist +20%
+
+Argent Jewel of Malice
+Jewel
+Required Level: 36
+Fingerprint: 0x351425a3
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++65 to Attack Rating
+Attacker Takes Damage of 4
+
+Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0xa7de411e
+Item Level: 34
+Version: Expansion 1.10+
+Unidentified
++2 to Strength
+
+Beast Talisman
+Jewel
+Required Level: 31
+Fingerprint: 0xcfffcda2
+Item Level: 80
+Version: Expansion 1.10+
+Adds 1 - 50 Lightning Damage
+Heal Stamina Plus 14%
+27% Extra Gold from Monsters
+
+Silver Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x8c1f3696
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Minimum Damage
++52 to Attack Rating
+
+Diamond Jewel of Burning
+Jewel
+Required Level: 49
+Fingerprint: 0x69aa6b1f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++37% Damage to Demons
++41 to Attack Rating against Demons
+Adds 24 - 40 Fire Damage
+
+Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0x655ac5a4
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+7% Better Chance of Getting Magic Items
+
+Ruby Jewel
+Jewel
+Required Level: 58
+Fingerprint: 0x726444e1
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+34% Enhanced Damage
+
+Ivory Jewel of Bliss
+Jewel
+Required Level: 56
+Fingerprint: 0x96e53080
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++5 to Minimum Damage
++42 Defense
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0xe3bdb979
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Maximum Damage
+
+Blanched Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0x2851a6b
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Maximum Damage
++8 Defense
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0xe63ab915
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Life
+
+Jewel of Ennui
+Jewel
+Required Level: 11
+Fingerprint: 0x8c4112d6
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 13 Lightning Damage
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0x759be8d5
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++5 to Energy
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0x4f156796
+Item Level: 81
+Version: Expansion 1.10+
+Attacker Takes Damage of 4
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0xdc2871e5
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++9 to Strength
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0x5e5e942e
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Life
+
+Jewel of Hope
+Jewel
+Required Level: 37
+Fingerprint: 0xb3924415
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++14 to Life
+
+Cinnabar Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0x5289a107
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+7% Enhanced Damage
++7 to Maximum Damage
+
+Stone Gyre
+Jewel
+Required Level: 36
+Fingerprint: 0x54ba52e4
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
+Adds 2 - 8 Damage
+
+Zircon Jewel
+Jewel
+Required Level: 2
+Fingerprint: 0xf669748
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++10 to Mana
+
+Silver Jewel
+Jewel
+Required Level: 18
+Fingerprint: 0x5728508e
+Item Level: 80
+Version: Expansion 1.10+
++51 to Attack Rating
+
+Blood Eye
+Jewel
+Required Level: 19
+Fingerprint: 0xe5570aa5
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 9 Fire Damage
+15% Better Chance of Getting Magic Items
+
+Dread Gyre
+Jewel
+Required Level: 36
+Fingerprint: 0x1d2a32f2
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
++1 to Minimum Damage
++4 to Energy
+Lightning Resist +6%
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0xbadeab1e
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++8 to Life
+
+Argent Jewel of Burning
+Jewel
+Required Level: 49
+Fingerprint: 0xbc75a7ff
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++78 to Attack Rating
+Adds 21 - 46 Fire Damage
+
+Rusty Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0xd373db8f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+15% Enhanced Damage
+
+Ruby Jewel
+Jewel
+Required Level: 58
+Fingerprint: 0xdd4f7e79
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+35% Enhanced Damage
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0xfd89b6ef
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++12 to Maximum Damage
+
+Sapphire Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x80e2c3a5
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +30%
+
+Grim Whorl
+Jewel
+Required Level: 42
+Fingerprint: 0xf9780ab9
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++9 to Maximum Damage
++40 Defense
++8 to Strength
+25% Extra Gold from Monsters
+
+Carbuncle Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0xea043ac8
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++2 to Maximum Damage
+Adds 1 - 55 Lightning Damage
+
+Bitter Whorl
+Jewel
+Required Level: 42
+Fingerprint: 0x7c640336
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++36 Defense
++9 to Strength
++4 to Energy
+
+Sapphire Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x4e65d604
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +18%
+
+Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0x6b963ed6
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Energy
+
+Silver Jewel
+Jewel
+Required Level: 18
+Fingerprint: 0xe1ba8096
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++54 to Attack Rating
+
+Shadow Talisman
+Jewel
+Required Level: 30
+Fingerprint: 0xb6e5651b
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Minimum Damage
++43% Damage to Undead
++34 to Attack Rating against Undead
+Poison Resist +12%
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0xec5c25ea
+Item Level: 80
+Version: Expansion 1.10+
++7 to Strength
+
+Blanched Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x2b7b4b0f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++6 Defense
+
+Bone Talisman
+Jewel
+Required Level: 14
+Fingerprint: 0x432a82a0
+Item Level: 86
+Version: Expansion 1.10+
+Unidentified
+5% Enhanced Damage
++25 to Attack Rating
++3 to Dexterity
+Cold Resist +26%
+
+Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0x93c872ca
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++9 to Dexterity
+
+Jewel of Joyfulness
+Jewel
+Required Level: 3
+Fingerprint: 0xb0511901
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++2 to Minimum Damage
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0x6cfac1e
+Item Level: 80
+Version: Expansion 1.10+
++5 to Maximum Damage
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x1d4ed191
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++7 to Strength
+
+Emerald Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0x5229779b
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+6% Better Chance of Getting Magic Items
+
+Dun Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x33fe98cc
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++2 to Strength
+7% Damage Taken Goes To Mana
+
+Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0xa28d5b2b
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++6 to Strength
+
+Beryl Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0x7599f2be
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++12 to Maximum Damage
+Poison Resist +14%
+
+Cinnabar Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xbcf1526c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+9% Enhanced Damage
+
+Ghoul Talisman
+Jewel
+Required Level: 28
+Fingerprint: 0xde2f4f4a
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++48 to Attack Rating
+Adds 1 - 57 Lightning Damage
+8% Better Chance of Getting Magic Items
+
+Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0x5f90033c
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++7 to Maximum Damage
+
+Realgar Jewel
+Jewel
+Required Level: 37
+Fingerprint: 0xaad125e1
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+27% Enhanced Damage
+
+Ruby Jewel
+Jewel
+Required Level: 58
+Fingerprint: 0xdd25f6fd
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+35% Enhanced Damage
+
+Camphor Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x668e8fe8
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Lightning Resist +8%
+
+Cinnabar Jewel of the Glacier
+Jewel
+Required Level: 50
+Fingerprint: 0x54d6abb8
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+10% Enhanced Damage
+Adds 5 - 13 Cold Damage Over 2 Secs (50 Frames)
+
+Skull Heart
+Jewel
+Required Level: 49
+Fingerprint: 0x94dd81ea
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 68 Lightning Damage
++4 to Energy
+Lightning Resist +17%
+27% Extra Gold from Monsters
+
+Camphor Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0xcdce1199
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Life
+Lightning Resist +14%
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0x7d87d5a3
+Item Level: 62
+Version: Expansion 1.10+
+Unidentified
++6 to Life
+
+Blanched Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xddb081fc
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 Defense
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0x5395ad1
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++2 to Maximum Damage
+
+Chestnut Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0x9f3a712d
+Item Level: 80
+Version: Expansion 1.10+
++6 to Energy
++10 Maximum Stamina
+
+Jewel of Daring
+Jewel
+Required Level: 14
+Fingerprint: 0xfe33359f
+Item Level: 19
+Version: Expansion 1.10+
++4 to Dexterity
+
+Bone Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0x322f9ef3
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 45 Lightning Damage
++29 Defense
+
+Jewel of Frigidity
+Jewel
+Required Level: 12
+Fingerprint: 0xe3f5473f
+Item Level: 82
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 5 Cold Damage Over 2 Secs (50 Frames)
+
+Jacinth Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0xda71ee
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++15 to Mana
+6% Better Chance of Getting Magic Items
+
+Jewel of Thunder
+Jewel
+Required Level: 49
+Fingerprint: 0x695892e8
+Item Level: 72
+Version: Expansion 1.10+
+Adds 1 - 89 Lightning Damage
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0x35eeccd8
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
++3 to Life
+
+Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0x1214e850
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Requirements -15%
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0xe5ebc849
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Strength
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0x106de5e8
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Dexterity
+
+Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x53d2d7ea
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Strength
+
+Eagle Scarab
+Jewel
+Required Level: 14
+Fingerprint: 0xa06204ef
+Item Level: 19
+Version: Expansion 1.10+
++4 to Life
++12 Maximum Stamina
+Lightning Resist +23%
+11% Damage Taken Goes To Mana
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x9afd6ee1
+Item Level: 81
+Version: Expansion 1.10+
++9 to Strength
+
+Silver Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0x53ded767
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++49 to Attack Rating
+9% Better Chance of Getting Magic Items
+
+Jewel of Hope
+Jewel
+Required Level: 37
+Fingerprint: 0xe1f177a9
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++17 to Life
+
+Shadow Gyre
+Jewel
+Required Level: 36
+Fingerprint: 0xf9122307
+Item Level: 61
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
++7 to Dexterity
+Poison Resist +13%
++2 to Mana after each Kill
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0x69168bf
+Item Level: 22
+Version: Expansion 1.10+
++8 to Life
+
+Carbuncle Jewel of Knowledge
+Jewel
+Required Level: 9
+Fingerprint: 0xf81e637f
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++5 to Maximum Damage
++5 to Energy
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0xa0efdb30
+Item Level: 83
+Version: Expansion 1.10+
+Unidentified
+22% Extra Gold from Monsters
+
+Chestnut Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x11d014ca
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++14 Maximum Stamina
+
+Sapphire Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0xf757d84a
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +21%
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0xd71ed1a8
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Attacker Takes Damage of 3
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0x6ff873ef
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Attacker Takes Damage of 3
+
+Diamond Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0xf4a2e715
+Item Level: 80
+Version: Expansion 1.10+
++10 to Minimum Damage
++38% Damage to Demons
++46 to Attack Rating against Demons
+
+Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0x332eea47
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++7 to Maximum Damage
+
+Cinnabar Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0xb3c21e7f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+10% Enhanced Damage
++2 to Strength
+
+Jade Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x4f1fbd3c
+Item Level: 23
+Version: Expansion 1.10+
+Poison Resist +16%
+
+Grim Scarab
+Jewel
+Required Level: 29
+Fingerprint: 0xb7bee392
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++3 to Maximum Damage
+Adds 1 - 11 Lightning Damage
+Attacker Takes Damage of 2
+9% Damage Taken Goes To Mana
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0x21fe41fc
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Attacker Takes Damage of 2
+
+Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0x239d8fd0
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++5 to Strength
+
+Crimson Jewel of Thunder
+Jewel
+Required Level: 49
+Fingerprint: 0x8d50c97b
+Item Level: 82
+Version: Expansion 1.10+
+Unidentified
++5 to Minimum Damage
+Adds 1 - 77 Lightning Damage
+
+Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0xaf41f1af
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Strength
+
+Zircon Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0xa2973e6f
+Item Level: 21
+Version: Expansion 1.10+
+Unidentified
++9 to Maximum Damage
++10 to Mana
+
+Silver Jewel of Burning
+Jewel
+Required Level: 49
+Fingerprint: 0xe48f3c2c
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++56 to Attack Rating
+Adds 19 - 44 Fire Damage
+
+Ivory Jewel
+Jewel
+Required Level: 56
+Fingerprint: 0x6ad5110e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++42 Defense
+
+Nickel Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x2847e703
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++11 to Attack Rating
+
+Blanched Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x63ba4423
+Item Level: 27
+Version: Expansion 1.10+
+Unidentified
++8 Defense
+
+Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0x1e26a81a
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+
+Garnet Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0x72340d7d
+Item Level: 68
+Version: Expansion 1.10+
+Unidentified
++6 to Maximum Damage
+Fire Resist +12%
+
+Blood Eye
+Jewel
+Required Level: 1
+Fingerprint: 0x315b5709
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++20 to Attack Rating
+Cold Resist +7%
+Requirements -15%
+
+Garnet Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x37c7b927
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Fire Resist +8%
+
+Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0x71cff2e
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Strength
+
+Rusty Jewel of Burning
+Jewel
+Required Level: 49
+Fingerprint: 0xcd4e062b
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+19% Enhanced Damage
+Adds 22 - 31 Fire Damage
+
+Doom Heart
+Jewel
+Required Level: 18
+Fingerprint: 0x81b60224
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++6 to Dexterity
++4 to Energy
+Cold Resist +30%
+
+Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x704a67f8
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++2 to Strength
+
+Jewel of Daring
+Jewel
+Required Level: 14
+Fingerprint: 0x34ae407d
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++6 to Dexterity
+
+Lapis Lazuli Jewel of Thunder
+Jewel
+Required Level: 49
+Fingerprint: 0x9b415879
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 95 Lightning Damage
+Cold Resist +13%
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0xc2644501
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++8 to Life
+
+Ruby Jewel
+Jewel
+Required Level: 13
+Fingerprint: 0xe2f75485
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Fire Resist +16%
+
+Jade Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x61d0628a
+Item Level: 81
+Version: Expansion 1.10+
+Poison Resist +24%
+
+Rusty Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0x9e6f65b5
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+12% Enhanced Damage
++7 to Dexterity
+
+Ruby Jewel
+Jewel
+Required Level: 58
+Fingerprint: 0x36d4d743
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+36% Enhanced Damage
+
+Cinnabar Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x7f0d94eb
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+5% Enhanced Damage
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0x3f2806e0
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Energy
+
+Scarlet Jewel
+Jewel
+Required Level: 6
+Fingerprint: 0x262df89d
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Minimum Damage
+
+Dun Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0x40e7ea51
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Strength
+11% Damage Taken Goes To Mana
+
+Emerald Jewel of the Glacier
+Jewel
+Required Level: 50
+Fingerprint: 0xfde64bc2
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 5 - 12 Cold Damage Over 2 Secs (50 Frames)
+7% Better Chance of Getting Magic Items
+
+Jewel of Knowledge
+Jewel
+Required Level: 33
+Fingerprint: 0xb326b5a3
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Energy
+
+Maroon Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0x9459a507
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++25 Maximum Stamina
+
+Sapphire Jewel of Frigidity
+Jewel
+Required Level: 14
+Fingerprint: 0xb58b7614
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 5 Cold Damage Over 2 Secs (50 Frames)
+Cold Resist +23%
+
+Jewel of Hope
+Jewel
+Required Level: 37
+Fingerprint: 0x506d84f9
+Item Level: 81
+Version: Expansion 1.10+
++17 to Life
+
+Carmine Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0x717e4b4a
+Item Level: 52
+Version: Expansion 1.10+
++7 to Maximum Damage
+Replenish Life +1
+
+Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0x5c43263e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
+
+Rusty Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0xa7085c76
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+15% Enhanced Damage
+
+Jewel of Daring
+Jewel
+Required Level: 14
+Fingerprint: 0x5ba9e1dc
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++4 to Dexterity
+
+Aureolic Jewel of Virility
+Jewel
+Required Level: 16
+Fingerprint: 0x8b961d63
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Strength
++3 to Mana after each Kill
+
+Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0x711d271f
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+9% Better Chance of Getting Magic Items
+
+Pearl Jewel of Hope
+Jewel
+Required Level: 37
+Fingerprint: 0xc8357033
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++28% Damage to Undead
++42 to Attack Rating against Undead
++18 to Life
+
+Emerald Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0xe532102d
+Item Level: 81
+Version: Expansion 1.10+
+7% Better Chance of Getting Magic Items
+
+Viper Eye
+Jewel
+Required Level: 42
+Fingerprint: 0xf7d5dd8a
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+27% Enhanced Damage
++22 to Attack Rating
++9 to Strength
+Cold Resist +18%
+
+Tin Jewel
+Jewel
+Required Level: 6
+Fingerprint: 0x94a41c04
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++27 to Attack Rating
+
+Bone Jewel of Joyfulness
+Jewel
+Required Level: 24
+Fingerprint: 0xf38e95b4
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++2 to Minimum Damage
++29 Defense
+
+Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0xa352c14c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+
+Scarlet Jewel of Daring
+Jewel
+Required Level: 6
+Fingerprint: 0x40ca9006
+Item Level: 58
+Version: Expansion 1.10+
+Unidentified
++2 to Minimum Damage
++1 to Dexterity
+
+Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0xcf6c92d5
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Replenish Life +3
+
+Camphor Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0x4301bbb7
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++2 to Maximum Damage
+Lightning Resist +9%
+
+Jewel of Ennui
+Jewel
+Required Level: 11
+Fingerprint: 0x1f7be92
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 14 Lightning Damage
+
+Dread Scarab
+Jewel
+Required Level: 37
+Fingerprint: 0xd3d1aa7c
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+24% Enhanced Damage
++8 to Maximum Damage
++7 Defense
+
+Jewel of the Glacier
+Jewel
+Required Level: 50
+Fingerprint: 0xc1b532c8
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 5 - 15 Cold Damage Over 2 Secs (50 Frames)
+
+Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0xbb594808
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++6 to Energy
+
+Camphor Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0xddb3779d
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Lightning Resist +10%
+17% Extra Gold from Monsters
+
+Sapphire Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0xb9c5384e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +21%
+
+Brown Jewel
+Jewel
+Required Level: 31
+Fingerprint: 0xaadba630
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Heal Stamina Plus 13%
+
+Viper Talisman
+Jewel
+Required Level: 12
+Fingerprint: 0x21e2c257
+Item Level: 88
+Version: Expansion 1.10+
++3 to Maximum Damage
++23 Maximum Stamina
+20% Extra Gold from Monsters
+
+Silver Jewel
+Jewel
+Required Level: 18
+Fingerprint: 0x5f2374d3
+Item Level: 42
+Version: Expansion 1.10+
+Unidentified
++50 to Attack Rating
+
+Garnet Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x41e159f2
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Fire Resist +15%
+
+Jewel of Ennui
+Jewel
+Required Level: 11
+Fingerprint: 0x4e98372c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 10 Lightning Damage
+
+Raven Gyre
+Jewel
+Required Level: 49
+Fingerprint: 0x8aa8063
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 25 - 39 Fire Damage
+Adds 1 - 4 Cold Damage Over 2 Secs (50 Frames)
+Fire Resist +27%
+
+Scarlet Jewel
+Jewel
+Required Level: 6
+Fingerprint: 0x77e636e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++4 to Minimum Damage
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0x42eceb60
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++12 to Maximum Damage
+
+Diamond Jewel of Knowledge
+Jewel
+Required Level: 19
+Fingerprint: 0xe7ac7d99
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++28% Damage to Demons
++47 to Attack Rating against Demons
++5 to Energy
+
+Ruby Jewel of Frigidity
+Jewel
+Required Level: 58
+Fingerprint: 0x66041a36
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+36% Enhanced Damage
+Adds 1 - 5 Cold Damage Over 2 Secs (50 Frames)
+
+Jewel of the Icicle
+Jewel
+Required Level: 29
+Fingerprint: 0x60dd6442
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 2 - 7 Cold Damage Over 2 Secs (50 Frames)
+
+Viper Eye
+Jewel
+Required Level: 42
+Fingerprint: 0xcb6b67a6
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+6% Enhanced Damage
++7 to Strength
++12 Maximum Stamina
+Heal Stamina Plus 14%
+
+Beryl Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x186d950f
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +10%
+
+Lapis Lazuli Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xaec2795b
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +9%
+
+Scarlet Jewel of Daring
+Jewel
+Required Level: 6
+Fingerprint: 0xd1127a71
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Minimum Damage
++3 to Dexterity
+
+Plague Gyre
+Jewel
+Required Level: 14
+Fingerprint: 0x6f4551de
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
++2 to Maximum Damage
++3 to Strength
++6 to Dexterity
+4% Better Chance of Getting Magic Items
+
+Blanched Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0xc37b2ce8
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++6 Defense
+10% Better Chance of Getting Magic Items
+
+Dun Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0xc469d555
+Item Level: 48
+Version: Expansion 1.10+
+Unidentified
+9% Damage Taken Goes To Mana
+5% Better Chance of Getting Magic Items
+
+Jewel of Fire
+Jewel
+Required Level: 28
+Fingerprint: 0x56f891a1
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 6 - 24 Fire Damage
+
+Jewel of Joyfulness
+Jewel
+Required Level: 3
+Fingerprint: 0x2f7496a2
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Minimum Damage
+
+Doom Talisman
+Jewel
+Required Level: 8
+Fingerprint: 0xfded53c5
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 4 - 9 Damage
++12 Maximum Stamina
+Lightning Resist +12%
+
+Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0x545909d0
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+6% Better Chance of Getting Magic Items
+
+Beryl Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0xaea8364b
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +5%
+Attacker Takes Damage of 1
+
+Vermilion Jewel of Virility
+Jewel
+Required Level: 50
+Fingerprint: 0x9890f76b
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++14 to Maximum Damage
++7 to Strength
+
+Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0xea5bafd2
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++3 to Strength
+
+Maroon Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0x3a4c5ecd
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++25 Maximum Stamina
+Attacker Takes Damage of 4
+
+Silver Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0xc2c20e29
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++43 to Attack Rating
+Adds 1 - 44 Lightning Damage
+
+Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0xf297338a
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
+
+Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0x4e2e98e3
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++8 to Maximum Damage
+
+Sapphire Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0xba5104d
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +26%
+
+Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0x46c6f01
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Replenish Life +1
+
+Bitter Whorl
+Jewel
+Required Level: 42
+Fingerprint: 0x6150d35f
+Item Level: 84
+Version: Expansion 1.10+
+Unidentified
+8% Enhanced Damage
++7 to Strength
++7 to Energy
+Cold Resist +7%
+Lightning Resist +7%
+Fire Resist +7%
+Poison Resist +7%
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x9c373b2e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++9 to Strength
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x6df2d542
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Strength
+
+Cinnabar Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x7db9657a
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+6% Enhanced Damage
+
+Crimson Jewel
+Jewel
+Required Level: 30
+Fingerprint: 0x1d68d4e5
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Minimum Damage
+
+Vermilion Jewel
+Jewel
+Required Level: 50
+Fingerprint: 0x608fa716
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++13 to Maximum Damage
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0xce43b76d
+Item Level: 86
+Version: Expansion 1.10+
+Unidentified
++4 to Maximum Damage
+
+Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x5c9bb97a
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
++2 to Strength
+
+Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x535d5dc7
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++10 to Minimum Damage
+
+Ruby Jewel
+Jewel
+Required Level: 58
+Fingerprint: 0x5f0c57b3
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+32% Enhanced Damage
+
+Jewel of Joyfulness
+Jewel
+Required Level: 3
+Fingerprint: 0x4fb8cfb8
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++4 to Minimum Damage
+
+Doom Heart
+Jewel
+Required Level: 12
+Fingerprint: 0x31502ca8
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+12% Enhanced Damage
++3 to Maximum Damage
++20 Maximum Stamina
+
+Argent Jewel
+Jewel
+Required Level: 36
+Fingerprint: 0xbc345f1e
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++75 to Attack Rating
+
+Rusty Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0x57cc4ef5
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+13% Enhanced Damage
+
+Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x4f9c8986
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Minimum Damage
+
+Carmine Jewel
+Jewel
+Required Level: 27
+Fingerprint: 0xdcaf637d
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++6 to Maximum Damage
+
+Jewel of Joyfulness
+Jewel
+Required Level: 3
+Fingerprint: 0x7f5a1c63
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++2 to Minimum Damage
+
+Emerald Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0xe1b042cb
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++11 to Maximum Damage
+3% Better Chance of Getting Magic Items
+
+Lapis Lazuli Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xadbe7d51
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +14%
+
+Jade Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x10a1f19c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +29%
+
+Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x8ad36c99
+Item Level: 85
+Version: Expansion 1.10+
++9 to Minimum Damage
+
+Carmine Jewel
+Jewel
+Required Level: 27
+Fingerprint: 0x7077b889
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++9 to Maximum Damage
+
+Tin Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x72e43114
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++40 to Attack Rating
++9 to Strength
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0xe99acd6c
+Item Level: 33
+Version: Expansion 1.10+
++3 to Dexterity
+
+Jewel of Frigidity
+Jewel
+Required Level: 12
+Fingerprint: 0x3534cfc3
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 5 Cold Damage Over 2 Secs (50 Frames)
+
+Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0x8b5ad7c5
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++5 to Strength
+
+Ruby Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0xf0930118
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Fire Resist +20%
+5% Better Chance of Getting Magic Items
+
+Doom Heart
+Jewel
+Required Level: 27
+Fingerprint: 0x13ea08
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 13 Damage
+
+Beryl Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x68a6c356
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +5%
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0x8626b9c8
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++11 to Maximum Damage
+
+Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0x980e7b8a
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Requirements -15%
+
+Viper Whorl
+Jewel
+Required Level: 49
+Fingerprint: 0xbb4c3e02
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+20% Enhanced Damage
++36% Damage to Undead
++41 to Attack Rating against Undead
+Adds 16 - 34 Fire Damage
+10% Damage Taken Goes To Mana
+
+Nickel Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0xfc3eff9a
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++8 to Maximum Damage
++14 to Attack Rating
+
+Sapphire Jewel of Virility
+Jewel
+Required Level: 14
+Fingerprint: 0x2e68ed3c
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++3 to Strength
+Cold Resist +22%
+
+Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0x833ceda0
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
++6 to Maximum Damage
+
+Jewel of Ennui
+Jewel
+Required Level: 11
+Fingerprint: 0x84dc8c18
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 11 Lightning Damage
+
+Maroon Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0x324e9b0f
+Item Level: 21
+Version: Expansion 1.10+
++23 Maximum Stamina
+
+Bright Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0xc16d23f9
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++10 to Attack Rating
++2 to Dexterity
++1 to Light Radius
+
+Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0xab1e08d3
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+10% Better Chance of Getting Magic Items
+
+Ambergris Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0xc3925542
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
++6 to Strength
+Lightning Resist +19%
+
+Emerald Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0x7a15ee1d
+Item Level: 80
+Version: Expansion 1.10+
++15% Increased Attack Speed
+3% Better Chance of Getting Magic Items
+
+Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0xbd2cd198
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++9 to Dexterity
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0xd5bd68bd
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+13% Extra Gold from Monsters
+
+Jewel of Fire
+Jewel
+Required Level: 28
+Fingerprint: 0x9357cb8f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 8 - 26 Fire Damage
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0x31bb0f3f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++6 to Life
+
+Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0xae442860
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Dexterity
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0x392e20d1
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Energy
+
+Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0xedb2d4ab
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 30 Lightning Damage
+
+Sapphire Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x38e919fb
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++6 to Minimum Damage
+Cold Resist +26%
+
+Jewel of Burning
+Jewel
+Required Level: 49
+Fingerprint: 0xb830e2fe
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 13 - 35 Fire Damage
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0xd120ea0d
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Strength
+
+Diamond Jewel of Virility
+Jewel
+Required Level: 19
+Fingerprint: 0xef9e0bf0
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
++27% Damage to Demons
++46 to Attack Rating against Demons
++1 to Strength
+
+Jewel of Joyfulness
+Jewel
+Required Level: 3
+Fingerprint: 0x84cf05a
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++4 to Minimum Damage
+
+Argent Jewel of Honor
+Jewel
+Required Level: 36
+Fingerprint: 0xc2a734b7
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++74 to Attack Rating
+Replenish Life +3
+
+Scintillating Jewel of Freedom
+Jewel
+Required Level: 26
+Fingerprint: 0xef37373a
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +15%
+Lightning Resist +15%
+Fire Resist +15%
+Poison Resist +15%
+Requirements -15%
+
+Zircon Jewel of Avarice
+Jewel
+Required Level: 2
+Fingerprint: 0x2d155a33
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Mana
+21% Extra Gold from Monsters
+
+Wraith Heart
+Jewel
+Required Level: 25
+Fingerprint: 0x54ca22c4
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++17 Defense
++5 to Strength
++4 to Energy
+6% Better Chance of Getting Magic Items
+
+Ruby Jewel of Joyfulness
+Jewel
+Required Level: 58
+Fingerprint: 0x385323b1
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+37% Enhanced Damage
++3 to Minimum Damage
+
+Turquoise Jewel
+Jewel
+Required Level: 21
+Fingerprint: 0x6aa98624
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
++20 to Mana
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0xbc7cccc3
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++9 to Strength
+
+Blanched Jewel of Envy
+Jewel
+Required Level: 1
+Fingerprint: 0xd3a1cc20
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 20 Poison Damage Over 2 Secs (50 Frames)
++5 Defense
+
+Dun Jewel
+Jewel
+Required Level: 5
+Fingerprint: 0x1586f1e3
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+8% Damage Taken Goes To Mana
+
+Carmine Jewel of Spirit
+Jewel
+Required Level: 27
+Fingerprint: 0x470dd304
+Item Level: 46
+Version: Expansion 1.10+
+Unidentified
++8 to Maximum Damage
++7 to Life
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0xd5bd180c
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+29% Extra Gold from Monsters
+
+Eburine Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0x86725219
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++16 Defense
+Attacker Takes Damage of 4
+
+Jade Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0xd5188700
+Item Level: 30
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +26%
+
+Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0xd9255e14
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++9 to Maximum Damage
+
+Plague Talisman
+Jewel
+Required Level: 5
+Fingerprint: 0xab8aa491
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Minimum Damage
++1 to Dexterity
++7 to Life
+
+Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0x26c63e9a
+Item Level: 58
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
+
+Bone Scarab
+Jewel
+Required Level: 12
+Fingerprint: 0xfd5b6686
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++3 to Minimum Damage
+Adds 3 - 10 Fire Damage
+6% Better Chance of Getting Magic Items
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0xe674be9e
+Item Level: 30
+Version: Expansion 1.10+
+Unidentified
++1 to Dexterity
+
+Rusty Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0x46f741fb
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+13% Enhanced Damage
+
+Jewel of Thunder
+Jewel
+Required Level: 49
+Fingerprint: 0xfa903e35
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 91 Lightning Damage
+
+Jewel of Burning
+Jewel
+Required Level: 49
+Fingerprint: 0x581c7834
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 11 - 38 Fire Damage
+
+Ambergris Jewel of Knowledge
+Jewel
+Required Level: 33
+Fingerprint: 0x442f8f40
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++9 to Energy
+Lightning Resist +27%
+
+Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0xe6726e2e
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
+
+Cinnabar Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xbe4fc169
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+10% Enhanced Damage
+
+Argent Jewel
+Jewel
+Required Level: 36
+Fingerprint: 0x3bb50d65
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++70 to Attack Rating
+
+Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0x1dcb65ac
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+5% Better Chance of Getting Magic Items
+
+Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0xf251e9a3
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++4 to Energy
+
+Argent Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x3ec8ea07
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++75 to Attack Rating
++8 to Strength
+
+Stone Heart
+Jewel
+Required Level: 14
+Fingerprint: 0x2dd92f8c
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 7 Fire Damage
++20 Defense
+Poison Resist +22%
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0x53fb558e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+12% Extra Gold from Monsters
+
+Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0xf6c0380b
+Item Level: 84
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 35 Lightning Damage
+
+Jade Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0xd3dcd80f
+Item Level: 69
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +17%
+
+Turquoise Jewel
+Jewel
+Required Level: 21
+Fingerprint: 0xe7946a2e
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++19 to Mana
+
+Rusty Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0xf50a3370
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+12% Enhanced Damage
+
+Camphor Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xabcf5164
+Item Level: 75
+Version: Expansion 1.10+
+Lightning Resist +15%
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0x37dc7bd6
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Maximum Damage
+
+Jewel of Fire
+Jewel
+Required Level: 28
+Fingerprint: 0xd1d01a
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 5 - 14 Fire Damage
+
+Sapphire Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x787c676d
+Item Level: 73
+Version: Expansion 1.10+
+Cold Resist +28%
+
+Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0x93c1260f
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Replenish Life +4
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0xdbb36a06
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Life
+
+Pearl Jewel
+Jewel
+Required Level: 13
+Fingerprint: 0x6d5913a2
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++29% Damage to Undead
++34 to Attack Rating against Undead
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0xfd6461be
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Strength
+
+Blanched Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xb6fd53ac
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 Defense
+
+Rusty Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0x6b61d476
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+14% Enhanced Damage
+
+Cinnabar Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xf3e24c3d
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+8% Enhanced Damage
+
+Lapis Lazuli Jewel of the Icicle
+Jewel
+Required Level: 29
+Fingerprint: 0xb77d4c63
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 3 - 8 Cold Damage Over 2 Secs (50 Frames)
+Cold Resist +9%
+
+Rusty Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0x1b0902c4
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+13% Enhanced Damage
+
+Garnet Jewel of Thunder
+Jewel
+Required Level: 49
+Fingerprint: 0x58cbdd2b
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 76 Lightning Damage
+Fire Resist +9%
+
+Jewel of Frigidity
+Jewel
+Required Level: 12
+Fingerprint: 0x5bb0d21d
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 5 Cold Damage Over 2 Secs (50 Frames)
+
+Ambergris Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x571a1bb3
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Lightning Resist +22%
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0xf6321d74
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Attacker Takes Damage of 2
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0xc37ff422
+Item Level: 55
+Version: Expansion 1.10+
++2 to Dexterity
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0xb94baf05
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Energy
+
+Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0xf611b419
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++6 to Strength
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0x870f9cb9
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+29% Extra Gold from Monsters
+
+Chestnut Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0xd887c73c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
++11 Maximum Stamina
+
+Bitter Whorl
+Jewel
+Required Level: 31
+Fingerprint: 0x4614a993
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
++1 to Minimum Damage
+Heal Stamina Plus 12%
+Fire Resist +9%
+Attacker Takes Damage of 2
+
+Carbuncle Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0xa07821f8
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Maximum Damage
+
+Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0x8b683e76
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 38 Lightning Damage
+
+Viper Talisman
+Jewel
+Required Level: 29
+Fingerprint: 0xc25573fb
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++23 Defense
++4 to Dexterity
+Attacker Takes Damage of 5
+
+Nickel Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0x4450c072
+Item Level: 81
+Version: Expansion 1.10+
++10 to Attack Rating
++4 to Life
+
+Bone Jewel
+Jewel
+Required Level: 24
+Fingerprint: 0x9d2c9310
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++39 Defense
+
+Jewel of Joyfulness
+Jewel
+Required Level: 3
+Fingerprint: 0xd1b54f5
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++2 to Minimum Damage
+
+Vermilion Jewel
+Jewel
+Required Level: 50
+Fingerprint: 0x340b8e5e
+Item Level: 80
+Version: Expansion 1.10+
++12 to Maximum Damage
+
+Aureolic Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x50db2ac1
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Strength
++3 to Mana after each Kill
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0x8b7c5340
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Energy
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0xcf3daf63
+Item Level: 24
+Version: Expansion 1.10+
++2 to Maximum Damage
+
+Emerald Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0xd4642f16
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+4% Better Chance of Getting Magic Items
+
+Jewel of Hope
+Jewel
+Required Level: 37
+Fingerprint: 0x26e6023c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++13 to Life
+
+Cinnabar Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0xc220062
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+6% Enhanced Damage
++7 to Strength
+
+Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0x330bb992
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+
+Shadow Gyre
+Jewel
+Required Level: 35
+Fingerprint: 0x1d3f228b
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Energy
+Replenish Life +4
+Heal Stamina Plus 13%
+
+Garnet Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xc56720ea
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Fire Resist +8%
+
+Argent Jewel
+Jewel
+Required Level: 36
+Fingerprint: 0x8de10f5e
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++68 to Attack Rating
+
+Argent Jewel
+Jewel
+Required Level: 36
+Fingerprint: 0x37bcbc74
+Item Level: 58
+Version: Expansion 1.10+
+Unidentified
++91 to Attack Rating
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x96358c36
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++9 to Strength
+
+Ruby Jewel of Avarice
+Jewel
+Required Level: 13
+Fingerprint: 0x65c91cf7
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Fire Resist +25%
+19% Extra Gold from Monsters
+
+Jewel of Daring
+Jewel
+Required Level: 14
+Fingerprint: 0x99c441b5
+Item Level: 39
+Version: Expansion 1.10+
++5 to Dexterity
+
+Carmine Jewel
+Jewel
+Required Level: 27
+Fingerprint: 0x279c55ee
+Item Level: 80
+Version: Expansion 1.10+
++6 to Maximum Damage
+
+Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0xee05d929
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0xb95f274c
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++8 to Strength
+
+Jewel of Passion
+Jewel
+Required Level: 11
+Fingerprint: 0x772b6121
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 3 - 9 Fire Damage
+
+Eburine Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0xb0145665
+Item Level: 87
+Version: Expansion 1.10+
++7% Faster Hit Recovery
++9 Defense
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0xf5ed3214
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++4 to Energy
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0x16bb2df4
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++7 to Life
+
+Jade Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x8e1e4471
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +18%
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0x2c17965d
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++3 to Energy
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0xd85fcecd
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++2 to Dexterity
+
+Sapphire Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0xc4a8467b
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 53 Lightning Damage
+Cold Resist +20%
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0xbda455b3
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Dexterity
+
+Shimmering Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0xfa25da55
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +8%
+Lightning Resist +8%
+Fire Resist +8%
+Poison Resist +8%
+
+Shadow Heart
+Jewel
+Required Level: 37
+Fingerprint: 0x4151281b
+Item Level: 75
+Version: Expansion 1.10+
+Unidentified
+27% Enhanced Damage
++18 to Attack Rating
++5 to Strength
++6 to Life
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x1e71c26
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Strength
+
+Bone Jewel
+Jewel
+Required Level: 24
+Fingerprint: 0xc9af2bae
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++22 Defense
+
+Bitter Gyre
+Jewel
+Required Level: 49
+Fingerprint: 0x8c85b13d
+Item Level: 66
+Version: Expansion 1.10+
+Unidentified
+Adds 22 - 34 Fire Damage
++8 Defense
++3 to Dexterity
++17 Maximum Stamina
+
+Jewel of Thunder
+Jewel
+Required Level: 49
+Fingerprint: 0xd180b463
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 80 Lightning Damage
+
+Jewel of Knowledge
+Jewel
+Required Level: 33
+Fingerprint: 0x967e5586
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Energy
+
+Jewel of Passion
+Jewel
+Required Level: 11
+Fingerprint: 0x1842cab1
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 2 - 7 Fire Damage
+
+Argent Jewel of Knowledge
+Jewel
+Required Level: 36
+Fingerprint: 0xa00d0449
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++89 to Attack Rating
++3 to Energy
+
+Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0x1bc0f8ac
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x79d89a6a
+Item Level: 82
+Version: Expansion 1.10+
++7 to Strength
+
+Jewel of the Icicle
+Jewel
+Required Level: 29
+Fingerprint: 0x40f25dcd
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 3 - 9 Cold Damage Over 2 Secs (50 Frames)
+
+Argent Jewel of Honor
+Jewel
+Required Level: 36
+Fingerprint: 0x6f487cc
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++81 to Attack Rating
+Replenish Life +2
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0xc7a38c76
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++8 to Strength
+
+Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0xc34df656
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
++1 to Strength
+
+Stone Whorl
+Jewel
+Required Level: 24
+Fingerprint: 0x51da241c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+11% Enhanced Damage
++4 to Maximum Damage
++38 Defense
+Lightning Resist +10%
+
+Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0x1212eb33
+Item Level: 81
+Version: Expansion 1.10+
++7% Faster Hit Recovery
+
+Emerald Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x18fd6398
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++6 to Minimum Damage
+7% Better Chance of Getting Magic Items
+
+Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0xd4c39e7b
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Replenish Life +2
+
+Chestnut Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xa3e05e78
+Item Level: 1
+Version: Expansion 1.10+
++13 Maximum Stamina
+
+Turquoise Jewel
+Jewel
+Required Level: 21
+Fingerprint: 0xde21765c
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++19 to Mana
+
+Nickel Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x8d0aca85
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++11 to Attack Rating
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0x46cd5417
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++4 to Maximum Damage
+
+Brown Jewel of Ennui
+Jewel
+Required Level: 31
+Fingerprint: 0xb38d3d40
+Item Level: 80
+Version: Expansion 1.10+
+Adds 1 - 18 Lightning Damage
+Heal Stamina Plus 14%
+
+Maroon Jewel of the Icicle
+Jewel
+Required Level: 29
+Fingerprint: 0x4ea708d2
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 3 - 10 Cold Damage Over 2 Secs (50 Frames)
++22 Maximum Stamina
+
+Dread Talisman
+Jewel
+Required Level: 28
+Fingerprint: 0xac6a5cec
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++6 to Maximum Damage
+Adds 1 - 24 Lightning Damage
++9 to Mana
+
+Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0x30100cfa
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+
+Blood Heart
+Jewel
+Required Level: 18
+Fingerprint: 0x850f46c5
+Item Level: 36
+Version: Expansion 1.10+
+Unidentified
++56 to Attack Rating
+Adds 1 - 19 Lightning Damage
+19% Extra Gold from Monsters
+
+Emerald Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0x4f09c935
+Item Level: 58
+Version: Expansion 1.10+
+Unidentified
+6% Better Chance of Getting Magic Items
+
+Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0xbe00b1e8
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++7 to Dexterity
+
+Nickel Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x951e3c0b
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++10 to Minimum Damage
++12 to Attack Rating
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0x86421402
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Dexterity
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0x8364655d
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++11 to Maximum Damage
+
+Rusty Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0x98fa06cf
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+12% Enhanced Damage
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0xeb207165
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++4 to Energy
+
+Plague Gyre
+Jewel
+Required Level: 28
+Fingerprint: 0x2c26ee93
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++31 Defense
++9 to Dexterity
+Poison Resist +29%
+11% Damage Taken Goes To Mana
+
+Scarlet Jewel
+Jewel
+Required Level: 6
+Fingerprint: 0xcc72a878
+Item Level: 80
+Version: Expansion 1.10+
++2 to Minimum Damage
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0x40c8978e
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Attacker Takes Damage of 2
+
+Raven Whorl
+Jewel
+Required Level: 29
+Fingerprint: 0xb86fbcc3
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++4 to Maximum Damage
+Cold Resist +8%
+Attacker Takes Damage of 3
+7% Better Chance of Getting Magic Items
+
+Jewel of Knowledge
+Jewel
+Required Level: 33
+Fingerprint: 0x9bbd2600
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Energy
+
+Blood Heart
+Jewel
+Required Level: 29
+Fingerprint: 0x944a9c8d
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Minimum Damage
++26 Defense
++4 to Dexterity
+Attacker Takes Damage of 5
+
+Plague Gyre
+Jewel
+Required Level: 29
+Fingerprint: 0xa75ecbd0
+Item Level: 40
+Version: Expansion 1.10+
+5% Enhanced Damage
++9 to Maximum Damage
+Adds 1 - 16 Lightning Damage
+Attacker Takes Damage of 3
+
+Jewel of the Icicle
+Jewel
+Required Level: 29
+Fingerprint: 0x68597761
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 3 - 9 Cold Damage Over 2 Secs (50 Frames)
+
+Jewel of Frigidity
+Jewel
+Required Level: 12
+Fingerprint: 0x955b88f2
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 5 Cold Damage Over 2 Secs (50 Frames)
+
+Eburine Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0xdca36ebd
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
++18 Defense
+10% Better Chance of Getting Magic Items
+
+Cinnabar Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x3c70585f
+Item Level: 45
+Version: Expansion 1.10+
+Unidentified
+5% Enhanced Damage
+
+Jade Jewel of Frigidity
+Jewel
+Required Level: 14
+Fingerprint: 0x8fe0c357
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 4 Cold Damage Over 2 Secs (50 Frames)
+Poison Resist +26%
+
+Ruby Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x227f32c6
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Strength
+Fire Resist +16%
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0x172f7467
+Item Level: 83
+Version: Expansion 1.10+
++14 to Maximum Damage
+
+Jewel of Ennui
+Jewel
+Required Level: 11
+Fingerprint: 0x52df154e
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 17 Lightning Damage
+
+Cinnabar Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0x567dd4ab
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+10% Enhanced Damage
++5 to Life
+
+Chestnut Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xf9dd637d
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++13 Maximum Stamina
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0x87c87d41
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++14 to Maximum Damage
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0xc8a336c
+Item Level: 12
+Version: Expansion 1.10+
+Unidentified
+22% Extra Gold from Monsters
+
+Aureolic Jewel of Burning
+Jewel
+Required Level: 49
+Fingerprint: 0xcc0969e4
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 11 - 41 Fire Damage
++3 to Mana after each Kill
+
+Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0xc81360d4
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 34 Lightning Damage
+
+Lapis Lazuli Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0xe41a5e59
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Energy
+Cold Resist +11%
+
+Zircon Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0x300fb682
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++9 to Mana
+Attacker Takes Damage of 3
+
+Bone Jewel of Carnage
+Jewel
+Required Level: 24
+Fingerprint: 0xea91b496
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++13 to Maximum Damage
++28 Defense
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0x983a2087
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++5 to Maximum Damage
+
+Carmine Jewel
+Jewel
+Required Level: 27
+Fingerprint: 0x6d8bdb81
+Item Level: 55
+Version: Expansion 1.10+
++9 to Maximum Damage
+
+Chestnut Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0xe0c8ee6a
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++6 to Minimum Damage
++15 Maximum Stamina
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0x2f77f4e9
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Energy
+
+Silver Jewel
+Jewel
+Required Level: 18
+Fingerprint: 0x9f1cdfaa
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++52 to Attack Rating
+
+Beryl Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0x8b45c508
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +14%
+Requirements -15%
+
+Blanched Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x60c67dc9
+Item Level: 33
+Version: Expansion 1.10+
+Unidentified
++5 Defense
+
+Shimmering Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0xcd867263
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +9%
+Lightning Resist +9%
+Fire Resist +9%
+Poison Resist +9%
+
+Jewel of the Icicle
+Jewel
+Required Level: 29
+Fingerprint: 0x96737f69
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Adds 2 - 10 Cold Damage Over 2 Secs (50 Frames)
+
+Bone Jewel
+Jewel
+Required Level: 24
+Fingerprint: 0x7a6f7e27
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++21 Defense
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0xd20d4867
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
+Attacker Takes Damage of 4
+
+Aureolic Jewel of Daring
+Jewel
+Required Level: 16
+Fingerprint: 0xb5577fe9
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++6 to Dexterity
++3 to Mana after each Kill
+
+Jewel of Knowledge
+Jewel
+Required Level: 33
+Fingerprint: 0xa8e333c7
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++7 to Energy
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x9bc24e0c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Strength
+
+Jewel of Frigidity
+Jewel
+Required Level: 12
+Fingerprint: 0xcd96d7e1
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 5 Cold Damage Over 2 Secs (50 Frames)
+
+Carmine Jewel of Daring
+Jewel
+Required Level: 27
+Fingerprint: 0x19b90275
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++6 to Maximum Damage
++3 to Dexterity
+
+Carbuncle Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0x4cbfc168
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++4 to Maximum Damage
+
+Chestnut Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xf0f6cb55
+Item Level: 1
+Version: Expansion 1.10+
+Unidentified
++11 Maximum Stamina
+
+Death Talisman
+Jewel
+Required Level: 8
+Fingerprint: 0xda4818c6
+Item Level: 33
+Version: Expansion 1.10+
+Unidentified
+Adds 2 - 7 Damage
++6 to Mana
+Fire Resist +9%
+
+Beryl Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0xc91cdcf9
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++6 to Life
+Poison Resist +14%
+
+Beast Talisman
+Jewel
+Required Level: 14
+Fingerprint: 0xbe45294
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+7% Enhanced Damage
+Adds 1 - 11 Lightning Damage
++6 to Dexterity
+Lightning Resist +13%
+
+Rune Whorl
+Jewel
+Required Level: 27
+Fingerprint: 0x549c09ab
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 3 - 9 Damage
+Poison Resist +20%
+
+Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0x98c07ee8
+Item Level: 50
+Version: Expansion 1.10+
+Unidentified
++8 to Dexterity
+
+Bone Scarab
+Jewel
+Required Level: 31
+Fingerprint: 0x4ee6d228
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Heal Stamina Plus 12%
+Cold Resist +6%
+9% Better Chance of Getting Magic Items
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0xed0a611
+Item Level: 73
+Version: Expansion 1.10+
+Unidentified
++12 to Maximum Damage
+
+Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0xf924d84e
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++5 to Strength
+
+Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0xb050ff86
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 30 Lightning Damage
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0xb0be58d1
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Attacker Takes Damage of 5
+
+Garnet Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x2b54e257
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Strength
+Fire Resist +13%
+
+Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0xd3db7dcf
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Strength
+
+Ivory Jewel
+Jewel
+Required Level: 56
+Fingerprint: 0xce8bcb2
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++53 Defense
+
+Silver Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0xd125e89c
+Item Level: 80
+Version: Expansion 1.10+
++7% Faster Hit Recovery
++49 to Attack Rating
+
+Sapphire Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x3caf4ec5
+Item Level: 68
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +26%
+
+Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0x79fab431
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Energy
+
+Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0xd27bee4a
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++6 to Maximum Damage
+
+Silver Jewel
+Jewel
+Required Level: 18
+Fingerprint: 0x181315f9
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++47 to Attack Rating
+
+Blanched Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x17e64fa9
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++6 Defense
+
+Aureolic Jewel
+Jewel
+Required Level: 16
+Fingerprint: 0x6c992f0c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++2 to Mana after each Kill
+
+Dun Jewel
+Jewel
+Required Level: 5
+Fingerprint: 0x5094a221
+Item Level: 17
+Version: Expansion 1.10+
+7% Damage Taken Goes To Mana
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0x5c21f07c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Dexterity
+
+Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0x60279d1f
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++4 to Energy
+
+Bone Jewel
+Jewel
+Required Level: 24
+Fingerprint: 0x8d957208
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++29 Defense
+
+Bone Jewel
+Jewel
+Required Level: 24
+Fingerprint: 0x8e34786
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
++25 Defense
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0x90c7f0d3
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++2 to Energy
+
+Jewel of Ennui
+Jewel
+Required Level: 11
+Fingerprint: 0x3fe1c01e
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 20 Lightning Damage
+
+Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0x346c337
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Maximum Damage
+
+Chestnut Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0x6c15d99f
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++11 Maximum Stamina
+8% Better Chance of Getting Magic Items
+
+Plague Whorl
+Jewel
+Required Level: 28
+Fingerprint: 0x917f27f0
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 53 Lightning Damage
++13 Maximum Stamina
+Cold Resist +29%
+
+Ruby Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x9c08f44c
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
++1 to Strength
+Fire Resist +17%
+
+Jade Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0xdd8d4b2
+Item Level: 61
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +17%
+
+Jewel of Burning
+Jewel
+Required Level: 49
+Fingerprint: 0xc2e7403e
+Item Level: 80
+Version: Expansion 1.10+
+Adds 21 - 35 Fire Damage
+
+Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0xfa5310b0
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Dexterity
+
+Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0x2b9be4a5
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+
+Jewel of Thunder
+Jewel
+Required Level: 49
+Fingerprint: 0xf4c65bad
+Item Level: 81
+Version: Expansion 1.10+
+Adds 1 - 88 Lightning Damage
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0x824ed6ec
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Energy
+
+Realgar Jewel
+Jewel
+Required Level: 37
+Fingerprint: 0x8a25f04b
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+27% Enhanced Damage
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0x34009c96
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Energy
+
+Garnet Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x6a3ea6e7
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Fire Resist +6%
+
+Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0x6bc6510
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++6 to Energy
+
+Eburine Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0x1baee489
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++18 Defense
+Replenish Life +3
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x19fb6a77
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Strength
+
+Rusty Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0x765c2505
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+11% Enhanced Damage
++4 to Energy
+
+Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0x153c1af1
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0xfcfe0bdb
+Item Level: 15
+Version: Expansion 1.10+
++1 to Dexterity
+
+Tin Jewel of Burning
+Jewel
+Required Level: 49
+Fingerprint: 0x79755b3d
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++24 to Attack Rating
+Adds 21 - 43 Fire Damage
+
+Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0xd7101d8
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Replenish Life +1
+
+Brown Jewel
+Jewel
+Required Level: 31
+Fingerprint: 0xb5fd3437
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Heal Stamina Plus 11%
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0xa4dca647
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Strength
+
+Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0xe710ac92
+Item Level: 55
+Version: Expansion 1.10+
+Unidentified
++5 to Energy
+
+Doom Eye
+Jewel
+Required Level: 18
+Fingerprint: 0xf3591364
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++48 to Attack Rating
++50% Damage to Undead
++36 to Attack Rating against Undead
++1 to Energy
+Lightning Resist +6%
+
+Carmine Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x18b899d8
+Item Level: 85
+Version: Expansion 1.10+
+Adds 6 - 8 Damage
+
+Jewel of Ennui
+Jewel
+Required Level: 11
+Fingerprint: 0xd98ab07d
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 17 Lightning Damage
+
+Bone Scarab
+Jewel
+Required Level: 24
+Fingerprint: 0x32a3a330
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++32% Damage to Undead
++30 to Attack Rating against Undead
++31 Defense
+Fire Resist +24%
+
+Pearl Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0x296337c8
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++28% Damage to Undead
++29 to Attack Rating against Undead
++9 to Dexterity
+
+Nickel Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x7f59a865
+Item Level: 42
+Version: Expansion 1.10+
++14 to Attack Rating
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0xef6ff40c
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++14 to Maximum Damage
+
+Jewel of Joyfulness
+Jewel
+Required Level: 3
+Fingerprint: 0x807977d7
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++1 to Minimum Damage
+
+Ambergris Jewel of Hope
+Jewel
+Required Level: 37
+Fingerprint: 0x42ae14b
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++16 to Life
+Lightning Resist +20%
+
+Ambergris Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x5eac814
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
+Lightning Resist +19%
+
+Beast Whorl
+Jewel
+Required Level: 28
+Fingerprint: 0xa02b8749
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Minimum Damage
+Adds 8 - 15 Fire Damage
++5 to Life
++12 Maximum Stamina
+
+Eagle Gyre
+Jewel
+Required Level: 35
+Fingerprint: 0x9ddff3c2
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++4 to Maximum Damage
++8 to Energy
+Replenish Life +3
+Fire Resist +29%
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0x20f0de96
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++3 to Dexterity
+
+Blanched Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0xe94db3e
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 Defense
++5 to Strength
+
+Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0x3a5339dc
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
+
+Maroon Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0x6c6732ce
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++18 Maximum Stamina
+
+Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0x28447907
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+
+Shadow Scarab
+Jewel
+Required Level: 13
+Fingerprint: 0xf67ac502
+Item Level: 83
+Version: Expansion 1.10+
+Unidentified
++2 to Strength
++2 to Dexterity
+10% Damage Taken Goes To Mana
+
+Ambergris Jewel of Daring
+Jewel
+Required Level: 14
+Fingerprint: 0xde0c0a1e
+Item Level: 94
+Version: Expansion 1.10+
+Unidentified
++5 to Dexterity
+Lightning Resist +25%
+
+Rusty Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0xaf11ee04
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+15% Enhanced Damage
+
+Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0x6ff341ea
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Energy
+
+Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x7cad3276
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
++9 to Minimum Damage
+
+Crimson Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0xde2b9c8a
+Item Level: 45
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
++5 to Minimum Damage
+
+Jewel of Frigidity
+Jewel
+Required Level: 12
+Fingerprint: 0x9de56d12
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 3 Cold Damage Over 2 Secs (50 Frames)
+
+Aureolic Jewel of Virility
+Jewel
+Required Level: 16
+Fingerprint: 0x374841ef
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++1 to Strength
++3 to Mana after each Kill
+
+Bone Jewel
+Jewel
+Required Level: 24
+Fingerprint: 0x1ef59f08
+Item Level: 80
+Version: Expansion 1.10+
++32 Defense
+
+Jewel of Joyfulness
+Jewel
+Required Level: 3
+Fingerprint: 0x10b54a93
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Minimum Damage
+
+Brown Jewel
+Jewel
+Required Level: 31
+Fingerprint: 0x17542be7
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Heal Stamina Plus 13%
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0x8a59e8c6
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++11 to Maximum Damage
+
+Turquoise Jewel of Joyfulness
+Jewel
+Required Level: 21
+Fingerprint: 0xf5d3b527
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Minimum Damage
++20 to Mana
+
+Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0xd7d9511
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++8 to Dexterity
+
+Ruby Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0xf575feec
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Fire Resist +16%
+Attacker Takes Damage of 2
+
+Turquoise Jewel of Prosperity
+Jewel
+Required Level: 21
+Fingerprint: 0x5024c07a
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++17 to Mana
+10% Better Chance of Getting Magic Items
+
+Dun Jewel
+Jewel
+Required Level: 5
+Fingerprint: 0xe1b08632
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+11% Damage Taken Goes To Mana
+
+Jewel of Fervor
+Jewel
+Required Level: 31
+Fingerprint: 0x87fafdf2
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++15% Increased Attack Speed
+
+Beast Talisman
+Jewel
+Required Level: 37
+Fingerprint: 0x143a768d
+Item Level: 66
+Version: Expansion 1.10+
+Unidentified
++10 to Minimum Damage
++57 to Attack Rating
++25 Defense
+
+Garnet Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0xa088f089
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Fire Resist +10%
+17% Extra Gold from Monsters
+
+Argent Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x5c1b2f2
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++89 to Attack Rating
++9 to Strength
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0x5502bb4a
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+22% Extra Gold from Monsters
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0xc684c0b5
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Life
+
+Blanched Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0xad62a18c
+Item Level: 26
+Version: Expansion 1.10+
+Unidentified
++9 to Maximum Damage
++5 Defense
+
+Sapphire Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x7611fca7
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +29%
+
+Jewel of Hope
+Jewel
+Required Level: 37
+Fingerprint: 0x774c04e0
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++17 to Life
+
+Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0xda35b411
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+8% Better Chance of Getting Magic Items
+
+Crimson Jewel
+Jewel
+Required Level: 30
+Fingerprint: 0xbed4440d
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Minimum Damage
+
+Ruby Jewel
+Jewel
+Required Level: 58
+Fingerprint: 0x11f3d6a1
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+36% Enhanced Damage
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0xd91d4389
+Item Level: 69
+Version: Expansion 1.10+
+Unidentified
++1 to Dexterity
+
+Bone Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x90a5ff97
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++9 to Minimum Damage
++23 Defense
+
+Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x12fb71f0
+Item Level: 31
+Version: Expansion 1.10+
+Unidentified
++4 to Strength
+
+Aureolic Jewel
+Jewel
+Required Level: 16
+Fingerprint: 0x802f9f1b
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++2 to Mana after each Kill
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0xa5ab7ac4
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Attacker Takes Damage of 5
+
+Jewel of Frigidity
+Jewel
+Required Level: 12
+Fingerprint: 0xaa1745e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 3 Cold Damage Over 2 Secs (50 Frames)
+
+Eburine Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x2d524e47
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++14 Defense
++3 to Strength
+
+Jewel of Daring
+Jewel
+Required Level: 14
+Fingerprint: 0x5a1cdc3b
+Item Level: 80
+Version: Expansion 1.10+
++5 to Dexterity
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0x941b8217
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++2 to Energy
+
+Bone Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0x86340942
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++27 Defense
+Replenish Life +2
+
+Realgar Jewel
+Jewel
+Required Level: 37
+Fingerprint: 0x25a4143b
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+24% Enhanced Damage
+
+Jewel of the Glacier
+Jewel
+Required Level: 50
+Fingerprint: 0xfedce66c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 5 - 15 Cold Damage Over 2 Secs (50 Frames)
+
+Ivory Jewel of Virility
+Jewel
+Required Level: 56
+Fingerprint: 0xf97030b1
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++50 Defense
++7 to Strength
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0xdf5d7c0e
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Attacker Takes Damage of 2
+
+Emerald Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0x64e33a7e
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
++4 to Energy
+5% Better Chance of Getting Magic Items
+
+Sapphire Jewel of Spirit
+Jewel
+Required Level: 14
+Fingerprint: 0x469f461f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Life
+Cold Resist +17%
+
+Blanched Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x2b55978e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++8 to Minimum Damage
++8 Defense
+
+Jewel of Prosperity
+Jewel
+Required Level: 19
+Fingerprint: 0x5c5695df
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+9% Better Chance of Getting Magic Items
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0x47f1c935
+Item Level: 81
+Version: Expansion 1.10+
++13 to Maximum Damage
+
+Jewel of Daring
+Jewel
+Required Level: 28
+Fingerprint: 0xd538946
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Dexterity
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0x69b8d63b
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+19% Extra Gold from Monsters
+
+Ghoul Eye
+Jewel
+Required Level: 37
+Fingerprint: 0x81ccc091
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+23% Enhanced Damage
++57 to Attack Rating
+Adds 9 - 20 Fire Damage
++3 to Strength
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0xa87309e7
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Attacker Takes Damage of 2
+
+Camphor Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x38db4cb3
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Lightning Resist +11%
+
+Stone Eye
+Jewel
+Required Level: 35
+Fingerprint: 0x6b6b4112
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 Defense
++3 to Life
+Replenish Life +4
+Lightning Resist +25%
+
+Skull Gyre
+Jewel
+Required Level: 36
+Fingerprint: 0x9651729f
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
+Adds 3 - 8 Fire Damage
++10 Maximum Stamina
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0xf6f97d1a
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++2 to Maximum Damage
+
+Death Eye
+Jewel
+Required Level: 13
+Fingerprint: 0x27120715
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 4 Damage
++34% Damage to Undead
++25 to Attack Rating against Undead
+
+Dun Jewel
+Jewel
+Required Level: 5
+Fingerprint: 0x4f05da89
+Item Level: 64
+Version: Expansion 1.10+
+Unidentified
+11% Damage Taken Goes To Mana
+
+Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x87dd3d79
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++4 to Strength
+
+Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0xc4981c97
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Strength
+
+Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0x5916d5e4
+Item Level: 47
+Version: Expansion 1.10+
+Replenish Life +3
+
+Jewel of the Glacier
+Jewel
+Required Level: 50
+Fingerprint: 0x98b7a60f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 5 - 14 Cold Damage Over 2 Secs (50 Frames)
+
+Nickel Jewel of Wrath
+Jewel
+Required Level: 8
+Fingerprint: 0x5e248a54
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++7 to Maximum Damage
++19 to Attack Rating
+
+Jade Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x847ad16c
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +24%
+
+Eagle Whorl
+Jewel
+Required Level: 36
+Fingerprint: 0xa8fba4e5
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
++1 to Mana after each Kill
+Requirements -15%
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0xdc34fac3
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
+29% Extra Gold from Monsters
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0x27da76c4
+Item Level: 85
+Version: Expansion 1.10+
+25% Extra Gold from Monsters
+
+Jewel of Envy
+Jewel
+Required Level: 1
+Fingerprint: 0x792e4e85
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 20 Poison Damage Over 2 Secs (50 Frames)
+
+Carmine Jewel
+Jewel
+Required Level: 27
+Fingerprint: 0x4970459c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++6 to Maximum Damage
+
+Jewel of Fire
+Jewel
+Required Level: 28
+Fingerprint: 0x4dd4e9a7
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 7 - 11 Fire Damage
+
+Carmine Jewel of Fire
+Jewel
+Required Level: 28
+Fingerprint: 0xbe222e28
+Item Level: 76
+Version: Expansion 1.10+
++9 to Maximum Damage
+Adds 4 - 24 Fire Damage
+
+Rune Gyre
+Jewel
+Required Level: 28
+Fingerprint: 0xb71c0e21
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++30 to Attack Rating
+Adds 1 - 39 Lightning Damage
+7% Better Chance of Getting Magic Items
+
+Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0x5955933e
+Item Level: 59
+Version: Expansion 1.10+
+Unidentified
++5 to Energy
+
+Rune Eye
+Jewel
+Required Level: 33
+Fingerprint: 0xcbddc99d
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+12% Enhanced Damage
+Adds 1 - 21 Lightning Damage
++9 to Energy
+Lightning Resist +19%
+
+Jacinth Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0xe1df2e4b
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++11 to Mana
+
+Ruby Jewel of Avarice
+Jewel
+Required Level: 58
+Fingerprint: 0x3298314c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+38% Enhanced Damage
+30% Extra Gold from Monsters
+
+Jewel of Frigidity
+Jewel
+Required Level: 12
+Fingerprint: 0xd10db431
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 4 Cold Damage Over 2 Secs (50 Frames)
+
+Skull Scarab
+Jewel
+Required Level: 28
+Fingerprint: 0xbb44e1a3
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 47 Lightning Damage
++12 to Mana
+Poison Resist +23%
+
+Carbuncle Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0xf664f013
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++14 to Maximum Damage
+
+Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x8c15adf4
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++5 to Minimum Damage
+
+Lapis Lazuli Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x9302c01e
+Item Level: 79
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +7%
+
+Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0x652d8d87
+Item Level: 31
+Version: Expansion 1.10+
+Unidentified
++6 to Energy
+
+Carmine Jewel of Daring
+Jewel
+Required Level: 27
+Fingerprint: 0xd13329ea
+Item Level: 80
+Version: Expansion 1.10+
++9 to Maximum Damage
++4 to Dexterity
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x4f82eec3
+Item Level: 84
+Version: Expansion 1.10+
+Unidentified
++8 to Strength
+
+Turquoise Jewel of Fire
+Jewel
+Required Level: 28
+Fingerprint: 0x75f2f40e
+Item Level: 86
+Version: Expansion 1.10+
+Unidentified
+Adds 8 - 13 Fire Damage
++20 to Mana
+
+Dread Scarab
+Jewel
+Required Level: 37
+Fingerprint: 0xfc6ee325
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+22% Enhanced Damage
++1 to Strength
+Lightning Resist +5%
+
+Jacinth Jewel of Virility
+Jewel
+Required Level: 13
+Fingerprint: 0x67895790
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++3 to Strength
++15 to Mana
+
+Dread Eye
+Jewel
+Required Level: 37
+Fingerprint: 0xa7324362
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+23% Enhanced Damage
++3 to Maximum Damage
++10 to Attack Rating
+11% Extra Gold from Monsters
++1 to Light Radius
+
+Vermilion Jewel
+Jewel
+Required Level: 50
+Fingerprint: 0xb2e1d4f6
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++13 to Maximum Damage
+
+Doom Scarab
+Jewel
+Required Level: 36
+Fingerprint: 0xa4bb0bd2
+Item Level: 84
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
+14% Enhanced Damage
+Heal Stamina Plus 13%
+21% Extra Gold from Monsters
+
+Tin Jewel
+Jewel
+Required Level: 6
+Fingerprint: 0xd8b4ed32
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++21 to Attack Rating
+
+Argent Jewel of Daring
+Jewel
+Required Level: 36
+Fingerprint: 0x2e41282d
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++75 to Attack Rating
++2 to Dexterity
+
+Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0xd4e1bb7f
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++10 to Minimum Damage
+
+Brown Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0x7050aae0
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
+Replenish Life +3
+Heal Stamina Plus 13%
+
+Pearl Jewel of Freedom
+Jewel
+Required Level: 13
+Fingerprint: 0x87f84d14
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++36% Damage to Undead
++47 to Attack Rating against Undead
+Requirements -15%
+
+Jewel of Spirit
+Jewel
+Required Level: 1
+Fingerprint: 0xeada9317
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++6 to Life
+
+Jewel of Malice
+Jewel
+Required Level: 29
+Fingerprint: 0x8e9c2273
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+Attacker Takes Damage of 5
+
+Ivory Jewel
+Jewel
+Required Level: 56
+Fingerprint: 0xaf9dc9d5
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++56 Defense
+
+Rusty Jewel of Passion
+Jewel
+Required Level: 11
+Fingerprint: 0x84d602
+Item Level: 32
+Version: Expansion 1.10+
+17% Enhanced Damage
+Adds 3 - 10 Fire Damage
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0x7cbf0d5c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++4 to Maximum Damage
+
+Maroon Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x8d7959f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Strength
++20 Maximum Stamina
+
+Silver Jewel of Knowledge
+Jewel
+Required Level: 33
+Fingerprint: 0xa4ee5994
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++47 to Attack Rating
++9 to Energy
+
+Shadow Gyre
+Jewel
+Required Level: 37
+Fingerprint: 0xecc14624
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+9% Enhanced Damage
++6 to Minimum Damage
++6 to Energy
+Attacker Takes Damage of 5
+
+Chestnut Jewel of Freedom
+Jewel
+Required Level: 1
+Fingerprint: 0xe51ea477
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++10 Maximum Stamina
+Requirements -15%
+
+Jewel of Ennui
+Jewel
+Required Level: 11
+Fingerprint: 0xd9d4a23a
+Item Level: 81
+Version: Expansion 1.10+
+Adds 1 - 18 Lightning Damage
+
+Cinnabar Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x3c255663
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+5% Enhanced Damage
+
+Jewel of Passion
+Jewel
+Required Level: 11
+Fingerprint: 0xa9be7d8e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 6 Fire Damage
+
+Jewel of Knowledge
+Jewel
+Required Level: 33
+Fingerprint: 0xb584ca09
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7 to Energy
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x2a3b74b8
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++7 to Strength
+
+Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0xac053bd6
+Item Level: 84
+Version: Expansion 1.10+
+Replenish Life +2
+
+Vermilion Jewel
+Jewel
+Required Level: 50
+Fingerprint: 0x3c065b52
+Item Level: 85
+Version: Expansion 1.10+
++13 to Maximum Damage
+
+Scarlet Jewel
+Jewel
+Required Level: 6
+Fingerprint: 0x567bf887
+Item Level: 36
+Version: Expansion 1.10+
+Unidentified
++2 to Minimum Damage
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0x10291f94
+Item Level: 80
+Version: Expansion 1.10+
++15 to Maximum Damage
+
+Aureolic Jewel
+Jewel
+Required Level: 16
+Fingerprint: 0xd70d4d21
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++3 to Mana after each Kill
+
+Jewel of Daring
+Jewel
+Required Level: 5
+Fingerprint: 0x8f055b2d
+Item Level: 81
+Version: Expansion 1.10+
++3 to Dexterity
+
+Emerald Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0x741b923f
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
+4% Better Chance of Getting Magic Items
+
+Jade Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0x93428d21
+Item Level: 47
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +24%
+
+Jewel of Carnage
+Jewel
+Required Level: 18
+Fingerprint: 0xd5fe2f08
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++14 to Maximum Damage
+
+Shimmering Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0x75724619
+Item Level: 80
+Version: Expansion 1.10+
+Replenish Life +2
+Cold Resist +7%
+Lightning Resist +7%
+Fire Resist +7%
+Poison Resist +7%
+
+Brown Jewel of Knowledge
+Jewel
+Required Level: 33
+Fingerprint: 0x35100023
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Energy
+Heal Stamina Plus 10%
+
+Ambergris Jewel of Hope
+Jewel
+Required Level: 37
+Fingerprint: 0x6bcfa147
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++11 to Life
+Lightning Resist +20%
+
+Jewel of Ire
+Jewel
+Required Level: 3
+Fingerprint: 0x73bc9632
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Maximum Damage
+
+Jewel of Honor
+Jewel
+Required Level: 35
+Fingerprint: 0x1c16ffdf
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Replenish Life +2
+
+Ivory Jewel of Truth
+Jewel
+Required Level: 56
+Fingerprint: 0x11d65e9
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
++61 Defense
+
+Jewel of Frigidity
+Jewel
+Required Level: 12
+Fingerprint: 0x513b95fa
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 3 Cold Damage Over 2 Secs (50 Frames)
+
+Jewel of the Icicle
+Jewel
+Required Level: 29
+Fingerprint: 0xbc24798c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 2 - 10 Cold Damage Over 2 Secs (50 Frames)
+
+Chestnut Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x1c9dca38
+Item Level: 88
+Version: Expansion 1.10+
++14 Maximum Stamina
+
+Blood Eye
+Jewel
+Required Level: 8
+Fingerprint: 0xbeee6bd9
+Item Level: 31
+Version: Expansion 1.10+
+Unidentified
+Adds 4 - 7 Damage
++8 to Mana
+Requirements -15%
+
+Jewel of Frigidity
+Jewel
+Required Level: 12
+Fingerprint: 0x85d3607d
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 4 Cold Damage Over 2 Secs (50 Frames)
+
+Ruby Jewel of Wrath
+Jewel
+Required Level: 58
+Fingerprint: 0x82b7756e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+33% Enhanced Damage
++9 to Maximum Damage
+
+Jewel of Lightning
+Jewel
+Required Level: 28
+Fingerprint: 0x7e7b8306
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 40 Lightning Damage
+
+Beryl Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0x1adacf30
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Poison Resist +5%
+
+Camphor Jewel
+Jewel
+Required Level: 1
+Fingerprint: 0xe3e0b468
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+Lightning Resist +10%
+
+Jewel of Knowledge
+Jewel
+Required Level: 33
+Fingerprint: 0x521e44dd
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++9 to Energy
+
+Jade Jewel of Thunder
+Jewel
+Required Level: 49
+Fingerprint: 0xc715779d
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 76 Lightning Damage
+Poison Resist +28%
+
+Jewel of Avarice
+Jewel
+Required Level: 1
+Fingerprint: 0xf4ef17f6
+Item Level: 80
+Version: Expansion 1.10+
+17% Extra Gold from Monsters
+
+Jewel of Truth
+Jewel
+Required Level: 36
+Fingerprint: 0xb7c8f250
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++7% Faster Hit Recovery
+
+Sapphire Jewel
+Jewel
+Required Level: 14
+Fingerprint: 0xf05a65c8
+Item Level: 87
+Version: Expansion 1.10+
+Unidentified
+Cold Resist +20%
+
+Wraith Scarab
+Jewel
+Required Level: 31
+Fingerprint: 0x8f6fd3f9
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
++40 to Attack Rating
+Adds 20 Poison Damage Over 2 Secs (50 Frames)
+Heal Stamina Plus 14%
+12% Damage Taken Goes To Mana
+
+Rusty Jewel of Ire
+Jewel
+Required Level: 9
+Fingerprint: 0x813f0178
+Item Level: 80
+Version: Expansion 1.10+
+19% Enhanced Damage
++4 to Maximum Damage
+
+Sapphire Jewel of Spirit
+Jewel
+Required Level: 14
+Fingerprint: 0xe289add
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++3 to Life
+Cold Resist +24%
+
+Cinnabar Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0x46d7067
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+9% Enhanced Damage
++5 to Strength
+
+Jewel of Ennui
+Jewel
+Required Level: 11
+Fingerprint: 0x14f7b674
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 1 - 11 Lightning Damage
+
+Aureolic Jewel of Joyfulness
+Jewel
+Required Level: 16
+Fingerprint: 0xef6dbd62
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++4 to Minimum Damage
++3 to Mana after each Kill
+
+Dun Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0x5c4ffc7c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Energy
+7% Damage Taken Goes To Mana
+
+Jewel of Joyfulness
+Jewel
+Required Level: 3
+Fingerprint: 0x43e7b41d
+Item Level: 81
+Version: Expansion 1.10+
++2 to Minimum Damage
+
+Ruby Jewel
+Jewel
+Required Level: 13
+Fingerprint: 0xaf5f332e
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Fire Resist +30%
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x24793833
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++9 to Strength
+
+Jewel of Bliss
+Jewel
+Required Level: 37
+Fingerprint: 0x77dfbf7f
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++9 to Minimum Damage
+
+Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0x458e098c
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++5 to Strength
+
+Jewel of Virility
+Jewel
+Required Level: 42
+Fingerprint: 0x806ba3dc
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++8 to Strength
+
+Rusty Jewel
+Jewel
+Required Level: 9
+Fingerprint: 0x2aa067d2
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
+11% Enhanced Damage
+
+Argent Jewel
+Jewel
+Required Level: 36
+Fingerprint: 0xd7a3f45
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++84 to Attack Rating
+
+Jewel of Hope
+Jewel
+Required Level: 37
+Fingerprint: 0xfd3167d0
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++19 to Life
+
+Ruby Jewel
+Jewel
+Required Level: 58
+Fingerprint: 0xe4e8412d
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+34% Enhanced Damage
+
+Beryl Jewel of the Glacier
+Jewel
+Required Level: 50
+Fingerprint: 0x12155502
+Item Level: 80
+Version: Expansion 1.10+
+Adds 4 - 15 Cold Damage Over 2 Secs (50 Frames)
+Poison Resist +14%
+
+Lapis Lazuli Jewel of Burning
+Jewel
+Required Level: 49
+Fingerprint: 0x6400bbe0
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+Adds 18 - 47 Fire Damage
+Cold Resist +5%
+
+Blanched Jewel of Virility
+Jewel
+Required Level: 25
+Fingerprint: 0x4e1ed49e
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++5 Defense
++5 to Strength
+
+Silver Jewel
+Jewel
+Required Level: 18
+Fingerprint: 0xd1e8de47
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++52 to Attack Rating
+
+Jewel of Knowledge
+Jewel
+Required Level: 6
+Fingerprint: 0x6fdc8203
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
++3 to Energy
+
+Death Whorl
+Jewel
+Required Level: 37
+Fingerprint: 0xbfb8afc3
+Item Level: 94
+Version: Expansion 1.10+
+Unidentified
++9 to Minimum Damage
++37 to Attack Rating
++6 to Energy
+Fire Resist +29%
+
+Maroon Jewel of Hope
+Jewel
+Required Level: 37
+Fingerprint: 0x47aff64
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++18 to Life
++18 Maximum Stamina
+
+Carmine Jewel
+Jewel
+Required Level: 27
+Fingerprint: 0x38ff2c26
+Item Level: 85
+Version: Expansion 1.10+
+Unidentified
++6 to Maximum Damage
+
+Blood Whorl
+Jewel
+Required Level: 1
+Fingerprint: 0x7174898b
+Item Level: 10
+Version: Expansion 1.10+
+Unidentified
++17 to Attack Rating
+Fire Resist +13%
+11% Extra Gold from Monsters
+
+Silver Jewel of Knowledge
+Jewel
+Required Level: 18
+Fingerprint: 0x9cfa8d82
+Item Level: 81
+Version: Expansion 1.10+
+Unidentified
++53 to Attack Rating
++4 to Energy
+
+Jewel of the Icicle
+Jewel
+Required Level: 29
+Fingerprint: 0xd229eaae
+Item Level: 84
+Version: Expansion 1.10+
+Unidentified
+Adds 3 - 7 Cold Damage Over 2 Secs (50 Frames)
+
+Grim Gyre
+Jewel
+Required Level: 27
+Fingerprint: 0x92955cff
+Item Level: 82
+Version: Expansion 1.10+
+Unidentified
++6 to Maximum Damage
++6 to Energy
++2 to Mana after each Kill
+21% Extra Gold from Monsters
+
+Emerald Jewel
+Jewel
+Required Level: 12
+Fingerprint: 0x7237f147
+Item Level: 88
+Version: Expansion 1.10+
+Unidentified
+4% Better Chance of Getting Magic Items
+
+Ruby Jewel of Spirit
+Jewel
+Required Level: 58
+Fingerprint: 0xb43a5b64
+Item Level: 80
+Version: Expansion 1.10+
+Unidentified
+32% Enhanced Damage
++5 to Life
+Finished: C:\Program Files (x86)\Diablo II\GoMule\SC\Jewels.d2x
+
