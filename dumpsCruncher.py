@@ -10,35 +10,37 @@ import tkinter.font as tkFont
 #Internal functionalities
 import gemsCruncher
 import runesCruncher
-import charmsJewelsCruncher
+import charmsCruncher
+import jewelsCruncher
 import setUniquesCruncher
+import itemsCruncher
+
+def getStrippedFileName(dumpFileNameWithExtension):
+	return dumpFileNameWithExtension.removesuffix(".d2x.txt")
 
 computedData = ""
 def computeUsingComboboxData():
-	computedData  = "Data shall be computed using:\n"
-	computedData += combo_files.get()
-	computedData += "\n(dumped {0}) as data file and:\n".format(time.ctime(os.path.getmtime(combo_files.get())))
-	computedData += combo_options.get()
-	computedData += "\nas crunching option."
-	text.delete("1.0", "end")
+	#get stripped name without the GoMule dump extension
+	strippedName = getStrippedFileName(combo_files.get())
+	
+	#call the requested cruncher process
 	if combo_options.get() == "Gems":
-		gemsCruncher.crunch(combo_files.get().rstrip(".d2x.txt"))
-		with open("{0}.purediablo".format(combo_files.get().rstrip(".d2x.txt")), 'r') as file_:
-			text.insert(tk.INSERT, file_.read())
+		gemsCruncher.crunch(strippedName)
 	elif combo_options.get() == "Runes":
-		runesCruncher.crunch(combo_files.get().rstrip(".d2x.txt"))
-		with open("{0}.purediablo".format(combo_files.get().rstrip(".d2x.txt")), 'r') as file_:
-			text.insert(tk.INSERT, file_.read())
-	elif combo_options.get() == "Charms/Jewels":
-		charmsJewelsCruncher.crunch(combo_files.get().rstrip(".d2x.txt"))
-		with open("{0}.purediablo".format(combo_files.get().rstrip(".d2x.txt")), 'r') as file_:
-			text.insert(tk.INSERT, file_.read())
+		runesCruncher.crunch(strippedName)
+	elif combo_options.get() == "Charms":
+		charmsCruncher.crunch(strippedName)
+	elif combo_options.get() == "Jewels":
+		jewelsCruncher.crunch(strippedName)
 	elif combo_options.get() == "Sets/Uniques":
-		setUniquesCruncher.crunch(combo_files.get().rstrip(".d2x.txt"))
-		with open("{0}.purediablo".format(combo_files.get().rstrip(".d2x.txt")), 'r') as file_:
-			text.insert(tk.INSERT, file_.read())
-	else:
-		text.insert(tk.END, computedData)
+		setUniquesCruncher.crunch(strippedName)
+	elif combo_options.get() == "Non-specific items":
+		itemsCruncher.crunch(strippedName)
+
+	#put file content in text area
+	text.delete("1.0", "end")
+	with open("{0}.purediablo".format(strippedName), 'r') as file_:
+		text.insert(tk.INSERT, file_.read())
 
 def deleteDumps():
 	confirmed = messagebox.askokcancel("Confirmation request", "Do you really want to delete all .d2x.txt files?")
@@ -86,7 +88,7 @@ label_as = tk.Label(frame_configurable_data, text=" as ")
 label_as.grid(row=0, column=currentColumn)
 currentColumn += 1
 
-myCrunchingOptionsList = ["Runes","Gems","Sets/Uniques","Charms/Jewels","Other items","Mixed"]
+myCrunchingOptionsList = ["Runes","Gems","Charms","Jewels","Sets/Uniques","Non-specific items","Mixed [not available]"]
 combo_options = ttk.Combobox(frame_configurable_data, values=myCrunchingOptionsList, state="readonly")
 combo_options.grid(row=0, column=currentColumn)
 currentColumn += 1
