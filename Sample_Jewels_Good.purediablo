@@ -1,0 +1,105 @@
+[COLOR=rgb(44, 130, 201)][I][B]Sample_Jewels_Good (26)[/B][/I][/COLOR]
+[CODE]
+Beryl Jewel of Freedom, Jewel x1
+Blood Whorl, Jewel x1
+Eburine Jewel of Fervor, Jewel x1
+Garnet Jewel of Fervor, Jewel x1
+Jewel of Carnage, Jewel x1
+Jewel of Fervor, Jewel x1
+Jewel of Freedom, Jewel x4
+Jewel of Spirit, Jewel x1
+Lapis Lazuli Jewel of Freedom, Jewel x1
+Nickel Jewel of Freedom, Jewel x1
+Realgar Jewel of Fervor, Jewel x1
+Ruby Jewel of Bliss, Jewel x1
+Ruby Jewel of Fervor, Jewel x2
+Ruby Jewel, Jewel x1
+Rusty Jewel of Fervor, Jewel x1
+Scintillating Jewel, Jewel x3
+Shimmering Jewel, Jewel x1
+Tin Jewel of Fervor, Jewel x1
+Vermilion Jewel of Virility, Jewel x1
+[/CODE]
+[SPOILER=CRUNCHED DUMPS]
+Beryl Jewel of Freedom, Jewel x1
+Required Level: 1
+Pres +11%, req -15% [0x6009b1c9]
+
+Blood Whorl, Jewel x1
+Required Level: 37
+29% ED, heal stamina +14%, req -15% [0x8d7fa8e4]
+
+Eburine Jewel of Fervor, Jewel x1
+Required Level: 31
++15% IAS, +14 def [0xbcbfad]
+
+Garnet Jewel of Fervor, Jewel x1
+Required Level: 31
++15% IAS, Fres +12% [0x36796b7a]
+
+Jewel of Carnage, Jewel x1
+Required Level: 18
++15 max [0xafa4f868]
+
+Jewel of Fervor, Jewel x1
+Required Level: 31
++15% IAS [0xd3ee1caa]
+
+Jewel of Freedom, Jewel x4
+Required Level: 1
+req -15% [0x401c6d38]
+req -15% [0x462bfa15]
+req -15% [0x5a645659]
+req -15% [0x77de3e1f]
+
+Jewel of Spirit, Jewel x1
+Required Level: 1
++6 life [0x42a37097]
+
+Lapis Lazuli Jewel of Freedom, Jewel x1
+Required Level: 1
+Cres +8%, req -15% [0x30707e08]
+
+Nickel Jewel of Freedom, Jewel x1
+Required Level: 1
++14 AR, req -15% [0x4fb9a533]
+
+Realgar Jewel of Fervor, Jewel x1
+Required Level: 37
++15% IAS, 21% ED [0xde030ade]
+
+Ruby Jewel of Bliss, Jewel x1
+Required Level: 58
+40% ED, +10 min [0xd4fff762]
+
+Ruby Jewel of Fervor, Jewel x2
+Required Level: 31
++15% IAS, Fres +25% [0xc6bc3c81]
++15% IAS, Fres +24% [0x8bdf0473]
+
+Ruby Jewel, Jewel x1
+Required Level: 58
+40% ED [0xf68a5deb]
+
+Rusty Jewel of Fervor, Jewel x1
+Required Level: 31
++15% IAS, 15% ED [0xa17619e6]
+
+Scintillating Jewel, Jewel x3
+Required Level: 26
+Cres +14%, Lres +14%, Fres +14%, Pres +14% [0x6a779754]
+Cres +13%, Lres +13%, Fres +13%, Pres +13% [0x2f13c10c]
+Cres +15%, Lres +15%, Fres +15%, Pres +15% [0x9d6afb22]
+
+Shimmering Jewel, Jewel x1
+Required Level: 12
+Cres +10%, Lres +10%, Fres +10%, Pres +10% [0xabd8bc4e]
+
+Tin Jewel of Fervor, Jewel x1
+Required Level: 31
++15% IAS, +39 AR [0xf2b23641]
+
+Vermilion Jewel of Virility, Jewel x1
+Required Level: 50
++14 max, +7 str [0xe2937bd9]
+[/SPOILER]

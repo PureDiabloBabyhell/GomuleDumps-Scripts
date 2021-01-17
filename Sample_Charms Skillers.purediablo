@@ -1,0 +1,186 @@
+[COLOR=rgb(44, 130, 201)][I][B]Sample_Charms Skillers (47)[/B][/I][/COLOR]
+[CODE]
+Burning Grand Charm x2
+Captain's Grand Charm x2
+Entrapping Grand Charm of Inertia x1
+Entrapping Grand Charm of Shock x1
+Entrapping Grand Charm x2
+Expert's Grand Charm of Greed x1
+Expert's Grand Charm x1
+Fanatic Grand Charm of Balance x1
+Fanatic Grand Charm x1
+Fletcher's Grand Charm x1
+Fungal Grand Charm of Life x1
+Fungal Grand Charm of Vita x1
+Fungal Grand Charm x2
+Graverobber's Grand Charm of Balance x1
+Graverobber's Grand Charm of Life x1
+Graverobber's Grand Charm of Quality x1
+Graverobber's Grand Charm x1
+Harpoonist's Grand Charm of Flame x1
+Harpoonist's Grand Charm x1
+Hexing Grand Charm of Dexterity x1
+Natural Grand Charm of Strength x2
+Natural Grand Charm x1
+Preserver's Grand Charm of Burning x1
+Preserver's Grand Charm of Life x2
+Preserver's Grand Charm x1
+Shogukusha's Grand Charm of Sustenance x1
+Shogukusha's Grand Charm x2
+Sounding Grand Charm of Greed x1
+Sparking Grand Charm of Incineration x1
+Sparking Grand Charm x2
+Spiritual Grand Charm of Dexterity x1
+Spiritual Grand Charm x3
+Trainer's Grand Charm of Dexterity x1
+Trainer's Grand Charm x3
+[/CODE]
+[SPOILER=CRUNCHED DUMPS]
+Burning Grand Charm x2
+Required Level: 42
++1 Fire (Sorc) [0x7c0a6962]
++1 Fire (Sorc) [0xf49e410f]
+
+Captain's Grand Charm x2
+Required Level: 42
++1 Offensive (Pal) [0x43c6a0f8]
++1 Offensive (Pal) [0xb5d3c5c5]
+
+Entrapping Grand Charm of Inertia x1
+Required Level: 42
++1 Trap (Assa), +7% FRW [0xdb9d5349]
+
+Entrapping Grand Charm of Shock x1
+Required Level: 42
++1 Trap (Assa), Adds 1 - 3 light [0x9e4c2030]
+
+Entrapping Grand Charm x2
+Required Level: 42
++1 Trap (Assa) [0x50d6dac0]
++1 Trap (Assa) [0x7bc7fa41]
+
+Expert's Grand Charm of Greed x1
+Required Level: 42
++1 Combat (Barb), 35% GF [0xdb118be3]
+
+Expert's Grand Charm x1
+Required Level: 42
++1 Combat (Barb) [0xb3aecc95]
+
+Fanatic Grand Charm of Balance x1
+Required Level: 42
++1 Masteries (Barb), +12% FHR [0x5d097c8d]
+
+Fanatic Grand Charm x1
+Required Level: 42
++1 Masteries (Barb) [0x9709e6f7]
+
+Fletcher's Grand Charm x1
+Required Level: 42
++1 Bow&XBow (Ama) [0xbbd38fad]
+
+Fungal Grand Charm of Life x1
+Required Level: 42
++1 P&B (Necro), +8 life [0x18c88d5b]
+
+Fungal Grand Charm of Vita x1
+Required Level: 69
++1 P&B (Necro), +36 life [0xb60a4c00]
+
+Fungal Grand Charm x2
+Required Level: 42
++1 P&B (Necro) [0x3ce5dffe]
++1 P&B (Necro) [0xcaf48c1d]
+
+Graverobber's Grand Charm of Balance x1
+Required Level: 42
++1 Summoning (Necro), +12% FHR [0xb7b1e46b]
+
+Graverobber's Grand Charm of Life x1
+Required Level: 42
++1 Summoning (Necro), +9 life [0xdab5db98]
+
+Graverobber's Grand Charm of Quality x1
+Required Level: 42
++1 Summoning (Necro), +2 max [0x564132d7]
+
+Graverobber's Grand Charm x1
+Required Level: 42
++1 Summoning (Necro) [0xa3ff6e9d]
+
+Harpoonist's Grand Charm of Flame x1
+Required Level: 42
++1 Jav&Spear (Ama), Adds 1 - 2 fire [0x7f8d36db]
+
+Harpoonist's Grand Charm x1
+Required Level: 42
++1 Jav&Spear (Ama) [0xa1dddf68]
+
+Hexing Grand Charm of Dexterity x1
+Required Level: 42
++1 Curses (Necro), +5 dex [0x957e2fa5]
+
+Natural Grand Charm of Strength x2
+Required Level: 42
++1 Elemental (Druid), +4 str [0x852b3e16]
++1 Elemental (Druid), +5 str [0xfde9f09b]
+
+Natural Grand Charm x1
+Required Level: 42
++1 Elemental (Druid) [0xf17a2f05]
+
+Preserver's Grand Charm of Burning x1
+Required Level: 42
++1 Defensive (Pal), Adds 2 - 5 fire [0xfe1c8d58]
+
+Preserver's Grand Charm of Life x2
+Required Level: 42
++1 Defensive (Pal), +8 life [0x64b2906f]
++1 Defensive (Pal), +9 life [0x1452c410]
+
+Preserver's Grand Charm x1
+Required Level: 42
++1 Defensive (Pal) [0xb6eace53]
+
+Shogukusha's Grand Charm of Sustenance x1
+Required Level: 42
++1 Mart. Art (Assa), +21 life [0xda477df6]
+
+Shogukusha's Grand Charm x2
+Required Level: 42
++1 Mart. Art (Assa) [0x97936165]
++1 Mart. Art (Assa) [0x5f4a2440]
+
+Sounding Grand Charm of Greed x1
+Required Level: 42
++1 Warcry (Barb), 37% GF [0x35d96aac]
+
+Sparking Grand Charm of Incineration x1
+Required Level: 42
++1 Light (Sorc), Adds 7 - 13 fire [0x269602f7]
+
+Sparking Grand Charm x2
+Required Level: 42
++1 Light (Sorc) [0xf40fdddd]
++1 Light (Sorc) [0x608bdd78]
+
+Spiritual Grand Charm of Dexterity x1
+Required Level: 42
++1 Shape-Shifting (Druid), +4 dex [0x9b25d034]
+
+Spiritual Grand Charm x3
+Required Level: 42
++1 Shape-Shifting (Druid) [0x8b558e3a]
++1 Shape-Shifting (Druid) [0x1e9c8d97]
++1 Shape-Shifting (Druid) [0xf226a2f3]
+
+Trainer's Grand Charm of Dexterity x1
+Required Level: 42
++1 Summoning (Druid), +4 dex [0x4f63439f]
+
+Trainer's Grand Charm x3
+Required Level: 42
++1 Summoning (Druid) [0x736f8cd3]
++1 Summoning (Druid) [0x6da0a6aa]
++1 Summoning (Druid) [0x418b55bf]
+[/SPOILER]
