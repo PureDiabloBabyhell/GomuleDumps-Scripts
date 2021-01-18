@@ -1,0 +1,86 @@
+C:\Program Files (x86)\Diablo II\GoMule\SC\1.07_Stuff.d2x
+
+
+Amn Rune
+Required Level: 25
+Version: Expansion 1.10+
+Weapons: 7% Life stolen per hit
+Armor: Attacker Takes Damage of 14
+Shields: Attacker Takes Damage of 14
+
+Amn Rune
+Required Level: 25
+Version: Expansion 1.10+
+Weapons: 7% Life stolen per hit
+Armor: Attacker Takes Damage of 14
+Shields: Attacker Takes Damage of 14
+
+Tal Rune
+Required Level: 17
+Version: Expansion 1.10+
+Weapons: Adds 75 Poison Damage Over 5 Secs (125 Frames)
+Armor: Poison Resist +30%
+Shields: Poison Resist +35%
+
+Tal Rune
+Required Level: 17
+Version: Expansion 1.10+
+Weapons: Adds 75 Poison Damage Over 5 Secs (125 Frames)
+Armor: Poison Resist +30%
+Shields: Poison Resist +35%
+
+Dol Rune
+Required Level: 31
+Version: Expansion 1.10+
+Weapons: Hit Causes Monster to Flee 25%
+Armor: Replenish Life +7
+Shields: Replenish Life +7
+
+Dol Rune
+Required Level: 31
+Version: Expansion 1.10+
+Weapons: Hit Causes Monster to Flee 25%
+Armor: Replenish Life +7
+Shields: Replenish Life +7
+
+Um Rune
+Required Level: 47
+Version: Expansion 1.10+
+Weapons: 25% Chance of Open Wounds
+Armor: Cold Resist +15%
+Lightning Resist +15%
+Fire Resist +15%
+Poison Resist +15%
+Shields: Cold Resist +22%
+Lightning Resist +22%
+Fire Resist +22%
+Poison Resist +22%
+
+Mal Rune
+Required Level: 49
+Version: Expansion 1.10+
+Weapons: Prevent Monster Heal
+Armor: Magic Damage Reduced by 7
+Shields: Magic Damage Reduced by 7
+
+Ist Rune
+Required Level: 51
+Version: Expansion 1.10+
+Weapons: 30% Better Chance of Getting Magic Items
+Armor: 25% Better Chance of Getting Magic Items
+Shields: 25% Better Chance of Getting Magic Items
+
+Cham Rune
+Required Level: 67
+Version: Expansion 1.10+
+Weapons: Freezes target +3
+Armor: Cannot Be Frozen
+Shields: Cannot Be Frozen
+
+Hel Rune
+Version: Expansion 1.10+
+Weapons: Requirements -20%
+Armor: Requirements -15%
+Shields: Requirements -15%
+Finished: C:\Program Files (x86)\Diablo II\GoMule\SC\1.07_Stuff.d2x
+

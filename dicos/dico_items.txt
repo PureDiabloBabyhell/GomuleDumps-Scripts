@@ -1,34 +1,67 @@
 #Mods
  Sockets (::os (
+to Light Radius::Light Radius
+Reanimate as: Returned::Reanimate as: Returned
+Chance to cast level::CTC lvl
+Absorbs Fire Damage (Based on Character Level)::Fire Absorb (Char. lvl)
+Absorbs Cold Damage (Based on Character Level)::Cold Absorb (Char. lvl)
+Absorbs Lightning Damage (Based on Character Level)::Lightning Absorb (Char. lvl)
+Absorbs Poison Damage (Based on Character Level)::Poison Absorb (Char. lvl)
+to Enemy Fire Resistance::Enemy Fres
+to Enemy Cold Resistance::Enemy Cres
+to Enemy Lightning Resistance::Enemy Lres
+to Enemy Poison Resistance::Enemy Pres
 Cold Resist::Cres
 Lightning Resist::Lres
 Fire Resist::Fres
 Poison Resist::Pres
 All Resistances::Allres
 Increased Attack Speed::IAS
+Faster Block Rate::FBR
+Increased Chance of Blocking::Inc. Blocking Chance
+Chance to Block::Blocking Chance
 Life stolen per hit::Life Leech
 Mana stolen per hit::Mana Leech
+Life after each Kill::LPK
+Mana after each Kill::MPK
+Regenerate Mana::Mana Regen
 Faster Hit Recovery::FHR
 Faster Run/Walk::FRW
-Enhanced Damage::ED
+Enhanced Damage::EDmg
+Damage to Demons::Dmg to Demons
+Damage to Undead::Dmg to Undead
 to Dexterity::dex
 to Strength::str
+to Minimum Damage (Based on Character Level)::min (Char. lvl)
+to Maximum Damage (Based on Character Level)::max (Char. lvl)
 to Minimum Damage::min
 to Maximum Damage::max
 Heal Stamina Plus ::heal stamina +
 Maximum Stamina::stamina
 Requirements::req
+to Attack Rating against Demons::AR vs Demons
+to Attack Rating against Undead::AR vs Undead
 to Attack Rating::AR
-Defense::def
-to Life::life
-to Mana::mana
+One Hand Damage: ::1H Dmg: 
+Two Hand Damage: ::2H Dmg: 
+Chance of Crushing Blow::CB
+Enhanced Defense::Edef
+Defense (Based on Character Level)::Def (Char. lvl)
+Defense::Def
+to Life::Life
+to Mana::Mana
+Magic Damage Reduced by::MDR
+Damage Reduced by::DR
 Cold Damage Over::cold over
 Lightning Damage::light
 Fire Damage::fire
 Poison Damage Over::psn over
+Attacker Takes::Attacker Takes
 Extra Gold from Monsters::GF
 Better Chance of Getting Magic Items::MF
 Reduces All Vendor Prices::Price reduce
+Knockback::KB
+to All Skills::AllSkills
 to Fire Skills (Sorceress Only)::Fire (Sorc)
 to Lightning Skills (Sorceress Only)::Light (Sorc)
 to Cold Skills (Sorceress Only)::Cold (Sorc)

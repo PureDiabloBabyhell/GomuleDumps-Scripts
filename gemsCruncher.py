@@ -15,7 +15,7 @@ def crunch(fileNameWithoutExtension):
 	nbItems = 0
 
 	for line in fp:
-		if not fileNameWithoutExtension in line.rstrip():
+		if not "GoMule" in line.rstrip():
 			if counter == 0 and line.rstrip():
 				counter = 1
 

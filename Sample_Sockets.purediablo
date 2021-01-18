@@ -43,29 +43,33 @@ Level 4 Oak Sage (25/25 Charges)
 Level 14 Raven (60/60 Charges)
 4os (4 used)
 
-Ko Rune, Required Level: 39
-Expansion 1.10+
-Weapons: +10 dex
-Armor: +10 dex
-Shields: +10 dex
+Ko Rune
+Required Level: 39
+Version: Expansion 1.10+
+Weapons: +10 to Dexterity
+Armor: +10 to Dexterity
+Shields: +10 to Dexterity
 
-Vex Rune, Required Level: 55
-Expansion 1.10+
-Weapons: 7% Mana Leech
-Armor: +5% to Maximum Fres
-Shields: +5% to Maximum Fres
+Vex Rune
+Required Level: 55
+Version: Expansion 1.10+
+Weapons: 7% Mana stolen per hit
+Armor: +5% to Maximum Fire Resist
+Shields: +5% to Maximum Fire Resist
 
-Pul Rune, Required Level: 45
-Expansion 1.10+
+Pul Rune
+Required Level: 45
+Version: Expansion 1.10+
 Weapons: +75% Damage to Demons
-+100 AR against Demons
-Armor: +30% Enhanced def
-Shields: +30% Enhanced def
++100 to Attack Rating against Demons
+Armor: +30% Enhanced Defense
+Shields: +30% Enhanced Defense
 
-Thul Rune, Required Level: 23
-Expansion 1.10+
-Weapons: Adds 3 - 14 cold over 3 Secs (75 Frames)
-Armor: Cres +30%
-Shields: Cres +35%
+Thul Rune
+Required Level: 23
+Version: Expansion 1.10+
+Weapons: Adds 3 - 14 Cold Damage Over 3 Secs (75 Frames)
+Armor: Cold Resist +30%
+Shields: Cold Resist +35%
 [/SPOILER]
 [/SPOILER]

@@ -20,6 +20,7 @@ def crunch(fileNameWithoutExtension):
 	idata = []
 	currentItemIterator = -1
 	sockets = []
+	isSocketedItem = 0
 
 	for aLine in fp:
 		line = aLine.rstrip('\n')
@@ -30,12 +31,18 @@ def crunch(fileNameWithoutExtension):
 			else:
 				itemLineCounter += 1
 
-			if itemLineCounter == 1: #item name
+			if isSocketedItem and line.rstrip():#item name has been taken on first pass. Now get content until line is empty
+				idata[currentItemIterator] += "\n" + line.rstrip()
+				
+			elif itemLineCounter == 1: #item name
 				itemName = line.rstrip()
 
 				if len(sockets):
 					#same item
 					sockets.remove(itemName)
+					isSocketedItem = 1
+					# Socketed items dumps are kept as is
+					idata[currentItemIterator] += "\n\n" + itemName
 				elif itemName in items:
 					currentItemIterator = items.index(itemName)
 					qties[currentItemIterator] += 1
@@ -98,22 +105,26 @@ def crunch(fileNameWithoutExtension):
 			#elif line.strip():
 			#	idata[currentItemIterator] += "\n" + line.strip()
 
-			if not line.rstrip():
+			if not (line.rstrip() or isSocketedItem):
 				####Build idata
-				print(itemName + "\nbase=" + itemBase + "\nfp=" + fingerprint)
+				#print(itemName + "\nbase=" + itemBase + "\nfp=" + fingerprint)
 				# Separation lines as necessary
 				if not idata[currentItemIterator] == "":
 					idata[currentItemIterator] += "\n\n"
-				# First line: <Eth status> <item name> <item base> <fingerprint>
+				# First line: <Identification status> <Eth status> <item name> <item base> <fingerprint>
+				if isUnid:
+					idata[currentItemIterator] += "[Unid]"
 				if isEth:
-					idata[currentItemIterator] += "Eth "
+					idata[currentItemIterator] += "[Eth]"
+				if isUnid or isEth:
+					idata[currentItemIterator] += " "
+					isUnid = 0
 					isEth = 0
 				idata[currentItemIterator] += itemName + itemBase + fingerprint + "\n"
 				itemName = ""
 				itemBase = ""
 				fingerprint = ""
 				# info when defined:
-				# <Identification status>
 				# <version>
 				# <item level>
 				# <fingerprint>
@@ -137,6 +148,7 @@ def crunch(fileNameWithoutExtension):
 
 			if not line.rstrip():
 				itemLineCounter = 0
+				isSocketedItem = 0
 
 	else:#Handle EOF
 		nbItems = 0
